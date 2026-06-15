@@ -1,0 +1,3653 @@
+[
+  {
+    "id": "job-1",
+    "title": "Customer Service Chat & Email Representative",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Jakarta Selatan, DKI Jakarta (WFO)",
+    "salaryRange": "Rp 5.500.000 - Rp 7.000.000",
+    "description": "Kami mencari Customer Service Representative yang berfokus pada layanan pelanggan berbasis tertulis (Chat & Email). Posisi ini sangat cocok untuk pelamar dengan keunikan rungu/tuli atau daksa, karena komunikasi dilakukan sepenuhnya secara digital tanpa panggilan suara.",
+    "requirements": [
+      "Kemampuan mengetik yang cepat dan akurat.",
+      "Kemampuan berkomunikasi dengan baik secara tertulis menggunakan bahasa Indonesia yang ramah.",
+      "Mampu menggunakan perangkat komputer dengan baik.",
+      "Memiliki rasa empati yang tinggi dan sabar menghadapi pertanyaan pelanggan."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Aplikasi Chat Komunikasi Internal",
+      "Jam Kerja Fleksibel",
+      "Pelatihan Berbahasa Isyarat",
+      "Workspace Ramah Kursi Roda"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-06-12T09:00:00Z"
+  },
+  {
+    "id": "job-2",
+    "title": "Data Entry & Quality Assurance Specialist",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Sleman, DI Yogyakarta (WFH)",
+    "salaryRange": "Rp 4.200.000 - Rp 5.200.000",
+    "description": "Melakukan input data hasil sensor pertanian cerdas ke dalam database utama serta memverifikasi kesesuaian data. Posisi ini mendukung penuh aksesibilitas pembaca layar (screen readers) dan memiliki jadwal mandiri, sangat cocok untuk teman-teman dengan keunikan netra (low vision/total blind) atau grahita ringan.",
+    "requirements": [
+      "Menguasai dasar Microsoft Office (Excel) atau Google Sheets.",
+      "Mampu mengoperasikan pembaca layar seperti NVDA / JAWS (bagi tunanetra).",
+      "Teliti dan menyukai pekerjaan yang bersifat repetitif dan terstruktur.",
+      "Memiliki laptop dan koneksi internet yang stabil."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Grahita"
+    ],
+    "accommodations": [
+      "Aplikasi Pembaca Layar",
+      "Pendampingan Mentor Khusus",
+      "Pekerjaan Rumah Penuh (WFH)"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-06-11T14:30:00Z"
+  },
+  {
+    "id": "job-3",
+    "title": "Junior Web Developer",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Bandung, Jawa Barat (WFO)",
+    "salaryRange": "Rp 6.000.000 - Rp 8.500.000",
+    "description": "Membantu pembuatan website klien menggunakan React, HTML/CSS, dan Figma. Kami menyambut para profesional dengan keunikan daksa atau rungu yang bersemangat di bidang coding dan desain visual digital.",
+    "requirements": [
+      "Memahami HTML, CSS, JavaScript, serta basis React / Tailwind.",
+      "Bisa mengoperasikan Figma untuk menyusun kawat sketsa (wireframe).",
+      "Terbiasa menggunakan kolaborasi git (GitHub/GitLab).",
+      "Senang belajar hal baru tentang teknologi inklusif."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Ramp Kursi Roda & Lift",
+      "Sistem Evaluasi Tertulis",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-06-10T11:15:00Z"
+  },
+  {
+    "id": "job-4",
+    "title": "Staff Administrasi & Pengarsipan Digital",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Surabaya, Jawa Timur (WFO)",
+    "salaryRange": "Rp 3.800.000 - Rp 4.500.000",
+    "description": "Melakukan scan dokumen fisik, mengelompokkannya ke dalam map digital di Google Drive, serta merapikan file korespondensi kantor. Lingkungan kerja kami tenang dan sangat mendukung individu dengan kecemasan (aspek mental) atau spektrum autisme.",
+    "requirements": [
+      "Mampu menggunakan scanner dan printer standar kantoran.",
+      "Paham manajemen file di PC maupun cloud storage.",
+      "Mendukung fokus tinggi dan kenyamanan kerja dengan headphone peredam bising.",
+      "Kerapian administrasi yang baik."
+    ],
+    "disabilityTypes": [
+      "Mental",
+      "Grahita"
+    ],
+    "accommodations": [
+      "Lingkungan Kerja Tenang & Redup",
+      "Headphone Peredam Bising",
+      "Pendampingan Psikologis Mingguan"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-06-09T08:00:00Z"
+  },
+  {
+    "id": "job-5",
+    "title": "Graphic Designer",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Denpasar, Bali (WFH)",
+    "salaryRange": "Rp 4.500.000 - Rp 6.000.000",
+    "description": "Membuat desain promosi sosial media, brosur digital, dan materi pemasaran visual kreatif untuk klien industri pariwisata. Membuka pintu lebar bagi teman-teman daksa tubuh bagian bawah atau rungu/tuli berbakat seni rupa digital.",
+    "requirements": [
+      "Mahir menggunakan Canva, Photoshop, atau CorelDraw.",
+      "Memiliki portofolio desain visual yang orisinil.",
+      "Responsif terhadap masukan dan revisi desain.",
+      "Dapat berkolaborasi dengan tatanan komunikasi visual modern."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Sistem Komunikasi Teks Penuh",
+      "Lisensi Software Profesional Dibayari",
+      "Bekerja Penuh Online dari Rumah"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-06-08T10:00:00Z"
+  },
+  {
+    "id": "job-6",
+    "title": "Content Writer & Copywriter",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Medan, Sumatera Utara (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 5.500.000",
+    "description": "Menulis artikel ulasan produk, materi pemasaran newsletter, serta salinan naskah iklan persuasif yang menarik minat calon pembeli. Posisi ini ramah disabilitas daksa, rungu, maupun mental stabil.",
+    "requirements": [
+      "Gemar menulis dan membaca tren gaya bahasa masa kini.",
+      "Paham dasar SEO (Search Engine Optimization) menulis artikel menjadi poin plus.",
+      "Mampu menghasilkan 2-3 artikel per hari dengan standar tata bahasa yang baik."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Pengaturan Jadwal Fleksibel",
+      "Software Pendeteksi Ejaan Otomatis",
+      "Kantor Akses Kursi Roda"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-06-07T09:00:00Z"
+  },
+  {
+    "id": "job-7",
+    "title": "Data Entry Specialist",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Banda Aceh, Aceh (WFO)",
+    "salaryRange": "Rp 3.500.000 - Rp 4.200.000",
+    "description": "Bertanggung jawab memelihara data administrasi penerima manfaat bantuan sosial daerah. Posisi di kantor cabang Aceh ini sangat mendukung pelamar rungu dan daksa kaki.",
+    "requirements": [
+      "Mampu mengetik minimal 45 kata per menit.",
+      "Menguasai teknik dasar pencarian data di komputer.",
+      "Pendidikan minimal SMA/SMK sederajat."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Ramp Lintasan Kursi Roda",
+      "Formulir Pelaporan Sederhana",
+      "Interpreter Isyarat Saat Rapat"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-06-06T08:30:00Z"
+  },
+  {
+    "id": "job-8",
+    "title": "Social Media Admin",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Padang, Sumatera Barat (WFH)",
+    "salaryRange": "Rp 3.200.000 - Rp 4.000.000",
+    "description": "Mengelola pesan masuk, kolom komentar, dan memposting konten harian di platform Instagram & TikTok klien retail lokal. Komunikasi 100% obrolan teks.",
+    "requirements": [
+      "Memiliki smartphone yang memadai untuk standby.",
+      "Memahami tren fitur sosial media terkini.",
+      "Ramah dan sabar melayani calon pembeli online."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Daksa",
+      "Mental"
+    ],
+    "accommodations": [
+      "Sistem Kerja WFH",
+      "Aplikasi Template Balasan Instan",
+      "Bantuan Sesi Asistensi Teknis"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-06-05T14:00:00Z"
+  },
+  {
+    "id": "job-9",
+    "title": "Quality Assurance Engineer (Junior)",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Pekanbaru, Riau (WFO)",
+    "salaryRange": "Rp 5.000.000 - Rp 6.800.000",
+    "description": "Menguji fungsionalitas sistem software pemantauan kelembaban tanah perkebunan sebelum dirilis ke pengguna umum. Mendukung kenyamanan kerja teman netra dengan piranti pembaca layar.",
+    "requirements": [
+      "Dasar pemrograman komputer / logika software yang cukup kuat.",
+      "Biasa melakukan pencatatan bug log secara runtut.",
+      "Pendidikan D3/S1 Teknik Informatika/Sistem Informasi."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Instalasi Software Pembaca Layar Berlisensi",
+      "Suasana Meja Kerja Pojok Mandiri",
+      "Sistem Evaluasi Tugas Terjadwal"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-06-04T11:00:00Z"
+  },
+  {
+    "id": "job-10",
+    "title": "Digital Marketing Admin",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Batam, Kepulauan Riau (WFH)",
+    "salaryRange": "Rp 4.500.000 - Rp 5.800.000",
+    "description": "Menyusun skedul kampanye iklan digital, merekap data konversi landing page, serta memantau pengeluaran anggaran harian secara teratur.",
+    "requirements": [
+      "Familiar dengan dasbor iklan dasar (Meta Ads / Google Ads).",
+      "Mampu teliti bermain data angka dan persentase di lembar kerja.",
+      "Dapat mengorganisasi file digital dengan baik."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu",
+      "Grahita"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Panduan Pengoperasian Video Ber-Subtitle",
+      "Jaminan Bebas Diskriminasi Rekrutmen"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-06-03T10:00:00Z"
+  },
+  {
+    "id": "job-11",
+    "title": "Content Digital Proofreader",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Jambi, Jambi (WFO)",
+    "salaryRange": "Rp 3.100.000 - Rp 3.800.000",
+    "description": "Mengoreksi kesalahan ejaan tanda baca, kesesuaian penulisan dengan KBBI pada draf materi edukasi digital yang disusun para penulis kantor cabang Jambi.",
+    "requirements": [
+      "Memiliki ketelitian sangat tinggi terhadap detail tulisan huruf per huruf.",
+      "Mengerti tata bahasa baku Indonesia secara mumpuni.",
+      "Komunikatif melalui media koordinasi tertulis."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Daksa",
+      "Mental"
+    ],
+    "accommodations": [
+      "Headphone Peredam Bising",
+      "Program Koreksi Ejaan Pendamping",
+      "Ruangan Kerja Sejuk & Ergonomis"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-06-02T13:00:00Z"
+  },
+  {
+    "id": "job-12",
+    "title": "Spesialis Input Data Inventaris",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Bengkulu, Bengkulu (WFH)",
+    "salaryRange": "Rp 3.000.000 - Rp 3.700.000",
+    "description": "Melakukan integrasi laporan berkala barang masuk dari gudang pusat ke master spreadsheet digital. Tugas dapat dikerjakan dengan fleksibilitas jam mandiri dari rumah di Bengkulu.",
+    "requirements": [
+      "Familiar dengan Google Sheets secara mendalam.",
+      "Memiliki akses PC/Laptop mandiri berspesifikasi standar.",
+      "Jujur dan bertanggung jawab terhadap keabsahan laporan."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Netra",
+      "Grahita"
+    ],
+    "accommodations": [
+      "Pembaca Layar Audio & Teks Pendamping",
+      "Mentoring Intensif Minggu Pertama",
+      "Toleransi Selesai Tugas Longgar"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-06-01T09:00:00Z"
+  },
+  {
+    "id": "job-13",
+    "title": "Marketing Campaign Evaluator",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Palembang, Sumatera Selatan (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 5.000.000",
+    "description": "Menelaah ulasan masukan dari kuesioner program kepuasan pembeli dan mentraslasikannya ke tabulasi analisis tren mingguan.",
+    "requirements": [
+      "Dapat mengolah data persentase sederhana di komputer.",
+      "Sabar, teliti, serta sanggup menjaga kerahasiaan berkas data.",
+      "Mampu bertukar gagasan melalui email kantor dengan taktis."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Format Berkas Dokumen Kontras Tinggi",
+      "Asisten Pendamping Individu",
+      "Jadwal Istirahat Fleksibel"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-05-31T11:00:00Z"
+  },
+  {
+    "id": "job-14",
+    "title": "Online Community Moderator",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Pangkalpinang, Kepulauan Bangka Belitung (WFH)",
+    "salaryRange": "Rp 3.500.000 - Rp 4.500.000",
+    "description": "Menjaga ketertiban ruang obrolan komunitas forum kreatif digital, menghapus spam, serta menjawab kendala teknis dasar anggota komunitas secara ramah via chat tertulis.",
+    "requirements": [
+      "Memiliki minat mendalam di dunia digital dan komunitas online.",
+      "Mampu menggunakan aplikasi pesan seperti Discord, Telegram, Whatsapp.",
+      "Mempunyai tata krama penulisan yang santun dan menjunjung keberagaman."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Daksa",
+      "Mental"
+    ],
+    "accommodations": [
+      "100% Remote Hub",
+      "Akses Saluran Bantuan Mental internal",
+      "Program Apresiasi Kreatif Tahunan"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-05-30T10:30:00Z"
+  },
+  {
+    "id": "job-15",
+    "title": "Staff Pembukuan Keuangan Digital",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Bandar Lampung, Lampung (WFO)",
+    "salaryRange": "Rp 3.800.000 - Rp 4.400.000",
+    "description": "Membantu pelaporan keuangan cabang dengan merekap seluruh nota kuitansi operasional harian ke software akuntansi terintegrasi.",
+    "requirements": [
+      "Lulusan SMK Akuntansi atau memiliki pemahaman dasar debit-kredit.",
+      "Kerapian administrasi keuangan yang sangat teruji.",
+      "Mampu mengoperasikan kalkulator digital dengan andal."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu",
+      "Grahita"
+    ],
+    "accommodations": [
+      "Kursi Kerja Ortopedi Pendukung",
+      "Sistem Evaluasi Tugas Berbasis Checklist",
+      "Toilet Aksesibel Kursi Roda"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-29T09:00:00Z"
+  },
+  {
+    "id": "job-16",
+    "title": "Administrative Assistant",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Serang, Banten (WFO)",
+    "salaryRange": "Rp 4.100.000 - Rp 4.900.000",
+    "description": "Mengurus keperluan penjadwalan meeting internal divisi, menyiapkan draf memo keputusan kantor, serta memesan kebutuhan logistik kantor cabang Banten.",
+    "requirements": [
+      "Pandai mengelola Google Calendar dan aplikasi perkantoran awan.",
+      "Komunikasi verbal atau non-verbal yang runtut.",
+      "Memiliki inisiatif tinggi dalam menata kerapian logistik."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Workspace Fleksibel",
+      "Sistem Instruksi Tertulis Terpusat",
+      "Asuransi Kesehatan inklusif"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-05-28T14:00:00Z"
+  },
+  {
+    "id": "job-17",
+    "title": "Web Accessibility Tester",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Semarang, Jawa Tengah (WFH)",
+    "salaryRange": "Rp 5.500.000 - Rp 7.500.000",
+    "description": "Memastikan situs web klon baru kami telah memenuhi standar aksesibilitas WCAG (Web Content Accessibility Guidelines) agar ramah navigasi bagi tunanetra dan penyandang motorik.",
+    "requirements": [
+      "Paham dasar HTML semantik dan atribut ARIA web.",
+      "Tergolong pengguna aktif screen reader (NVDA, VoiceOver, dsb) atau kontrol keyboard.",
+      "Suka memberikan analisis mendalam berupa laporan revisi teks."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Full WFH",
+      "Fleksibilitas Jam Evaluasi",
+      "Gawai Kerja Pendukung Eksklusif"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-05-27T08:00:00Z"
+  },
+  {
+    "id": "job-18",
+    "title": "Translator Bahasa Inggris - Indonesia",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Kupang, Nusa Tenggara Timur (WFH)",
+    "salaryRange": "Rp 4.000.000 - Rp 5.200.000",
+    "description": "Menerjemahkan artikel pengetahuan alam, draf materi ajar sekolah mitra, dan transkrip tulisan dari bahasa Inggris ke Bahasa Indonesia secara akurat dan mudah dipahami.",
+    "requirements": [
+      "Mengantongi sertifikat kemampuan Bahasa Inggris yang setara TOEFL 500+.",
+      "Keahlian merangkai kalimat dengan sintaksis bahasa Indonesia yang luwes.",
+      "Mengerti pemakaian kamus padanan kata daring dengan cepat."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Remote Work Tanpa Mobilitas",
+      "Tenggat Waktu Penerjemahan Mandiri Kelompok",
+      "Aplikasi Kamus Berlisensi"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-26T15:00:00Z"
+  },
+  {
+    "id": "job-19",
+    "title": "Data Validator Pertanian Pintar",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Kupang, Nusa Tenggara Timur (WFH)",
+    "salaryRange": "Rp 3.300.000 - Rp 4.100.000",
+    "description": "Memantau dan memvalidasi log masuk suhu, cuaca, serta kelembaban lahan dari sensor terpasang di Indonesia Timur. Semua pekerjaan dialirkan secara digital terintegrasi online.",
+    "requirements": [
+      "Mampu menggunakan Google Sheets dasar secara mandiri.",
+      "Menyukai ketuntasan pekerjaan yang runtut berulang.",
+      "Mempunyai laptop berfasilitas internet rumah memadai."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Grahita",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Screen Reader Friendly Dashboard",
+      "Mentor Berbasis Pendampingan Asynchronous",
+      "Insentif Kelayakan Kuota"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-05-25T11:00:00Z"
+  },
+  {
+    "id": "job-20",
+    "title": "Digital Inventory Recorder",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Mataram, Nusa Tenggara Barat (WFO)",
+    "salaryRange": "Rp 3.400.000 - Rp 4.100.000",
+    "description": "Menerima barang masuk di gudang Nusa Tenggara Barat, memindai barcode inventaris, dan mencatatkan kuantitas fisiknya di aplikasi komputer internal stok.",
+    "requirements": [
+      "Memiliki stamina fokus yang prima untuk bekerja di area inventaris.",
+      "Keterampilan mengoperasikan keyboard angka secara lincah.",
+      "Berusia minimal 18 tahun dan bertempat tinggal di Lombok."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Pelindung Telinga Nyaman",
+      "Penerangan Gudang Ekstra Terang",
+      "Form Checklist Instruksi Gambar Jelas"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-05-24T10:00:00Z"
+  },
+  {
+    "id": "job-21",
+    "title": "Asisten Database Inventaris Kantor",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Pontianak, Kalimantan Barat (WFO)",
+    "salaryRange": "Rp 3.350.000 - Rp 3.900.000",
+    "description": "Merapikan label rak barang dagangan serta mencocokkannya dengan buku catatan stok logistik area Kalbar. Sangat mendukung inklusivitas penyandang autisme.",
+    "requirements": [
+      "Teliti, sabar, dan teratur dalam menyusun struktur barang fisik.",
+      "Pernah belajar mengoperasikan komputer dasar.",
+      "Mampu bekerja dengan arahan terstruktur harian."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Mental",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Pojok Meja Kerja Eksklusif Tenang",
+      "Panduan Gambar Penempatan Barang",
+      "Sesi Pembinaan Kesejahteraan Mental"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-05-23T09:00:00Z"
+  },
+  {
+    "id": "job-22",
+    "title": "Moderator Chat Media Pembelajaran",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Palangka Raya, Kalimantan Tengah (WFH)",
+    "salaryRange": "Rp 3.200.000 - Rp 3.800.000",
+    "description": "Mendampingi kelompok siswa inklusif yang belajar jarak jauh dengan memoderatori saluran obrolan web seminar agar santun dan kondusif.",
+    "requirements": [
+      "Berpribadi tenang, sabar, dan memiliki pemahaman empati mendalam.",
+      "Sanggup mengoperasikan browser Chrome/Firefox dengan lancar.",
+      "Mempunyai koneksi internet yang stabil."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Daksa",
+      "Mental"
+    ],
+    "accommodations": [
+      "Sistem Kerja WFH",
+      "Komunikasi Berbentuk Tinjauan Teks",
+      "Sesi Diskusi Mentor Pasca Sesi"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-05-22T13:00:00Z"
+  },
+  {
+    "id": "job-23",
+    "title": "Online Community Facilitator",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Banjarmasin, Kalimantan Selatan (WFO)",
+    "salaryRange": "Rp 3.600.000 - Rp 4.200.000",
+    "description": "Menghubungkan kelompok wirausaha penyandang disabilitas di Kalsel melalui grup pembinaan teks, menyalurkan rilis artikel, dan menjawab keluhan pendaftaran program.",
+    "requirements": [
+      "Suka berinteraksi sosial secara tertulis.",
+      "Memiliki pemahaman ramah tentang etika disabilitas.",
+      "Mampu menyusun pesan informasi dwi-mingguan terpadu."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Kursi Roda Adaptif Kantor",
+      "Interpreter Bahasa Isyarat Sesi Offline",
+      "Waktu Mulai Kerja Lebih Lambat"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-21T11:00:00Z"
+  },
+  {
+    "id": "job-24",
+    "title": "Sensus Pertanian Digital Operator",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Samarinda, Kalimantan Timur (WFH)",
+    "salaryRange": "Rp 4.000.000 - Rp 5.000.000",
+    "description": "Melakukan verifikasi berkas formulir petani binaan yang diunggah secara online ke cloud server. Proses murni menggunakan mata teliti atau pembaca suara.",
+    "requirements": [
+      "Bisa mengevaluasi kejernihan berkas PDF atau gambar pendaftaran.",
+      "Tekun dalam berhadapan dengan tumpukan dokumen data bervariasi setiap hari.",
+      "Mematuhui kode etik kerahasiaan kepemilikan lahan."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa",
+      "Grahita"
+    ],
+    "accommodations": [
+      "Staf Pendamping Kategori Khusus",
+      "Opsi Jam Istirahat Sesuai Keinginan",
+      "WFH Penuh"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-05-20T10:00:00Z"
+  },
+  {
+    "id": "job-25",
+    "title": "Data Compiler Admin",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Tanjung Selor, Kalimantan Utara (WFO)",
+    "salaryRange": "Rp 3.500.000 - Rp 4.100.000",
+    "description": "Menghimpun berkas pendaftaran kegiatan sosialisasi daerah Kaltara ke dalam format arsip yang rapih sesuai ketetapan baku organisasi.",
+    "requirements": [
+      "Pendidikan minimal SMA/SMK pariwisata atau administrasi.",
+      "Mampu menggunakan aplikasi Google Suite secara baik.",
+      "Memiliki kemauan kuat belajar tata kelola data perkantoran."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jalur Masuk Lif & Ramp Khusus",
+      "Papan Pengumuman Ber-Font Visual Besar",
+      "Apresiasi Pencapaian Berkala"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-05-19T09:00:00Z"
+  },
+  {
+    "id": "job-26",
+    "title": "Virtual Office Assistant",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Manado, Sulawesi Utara (WFH)",
+    "salaryRange": "Rp 3.900.000 - Rp 4.600.000",
+    "description": "Membantu penjadwalan janji temu pengacara dan klien di kantor representatif, menyortir surat email masuk, serta mengirimi notifikasi WhatsApp pengingat.",
+    "requirements": [
+      "Paham penggunaan aplikasi pesan terjadwal dan kalender digital.",
+      "Karakter penulisan sopan, teliti, dan mengutamakan ketepatan waktu.",
+      "Bertempat tinggal di Sulut merupakan keunggulan."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Rungu",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Sistem Kerja WFH Mandiri",
+      "Sistem Pembaca Email Otomatis",
+      "Pemberangkatan Fasilitas Gawai Penunjang"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-05-18T14:30:00Z"
+  },
+  {
+    "id": "job-27",
+    "title": "Staff Pelayanan Informasi Chat",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Gorontalo, Gorontalo (WFO)",
+    "salaryRange": "Rp 3.150.000 - Rp 3.700.000",
+    "description": "Menghubungkan warga Gorontalo dengan desk informasi keluhan administrasi pertanahan lewat saluran chat terpusat.",
+    "requirements": [
+      "Lancar berbahasa Indonesia secara tertulis.",
+      "Mampu menggunakan perangkat laptop Windows.",
+      "Memiliki kedisiplinan kerja yang tinggi."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Layar Kerja Kontrast Tinggi",
+      "Mentor Pendamping Isyarat Kepala",
+      "Meja Kerja Ergonomis"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-05-17T11:00:00Z"
+  },
+  {
+    "id": "job-28",
+    "title": "Content Editor Pendukung Pendidikan",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Palu, Sulawesi Tengah (WFH)",
+    "salaryRange": "Rp 3.400.000 - Rp 4.250.000",
+    "description": "Menyusun skrip tulisan kuis interaktif ramah anak berkebutuhan khusus berlandas materi kurikulum nasional.",
+    "requirements": [
+      "Latar belakang ketertarikan di pengajaran inklusif.",
+      "Kreatif mengemas materi formal menjadi kuis yang menyenangkan.",
+      "Nyaman berkoordinasi secara asynchronous lewat web manajemen tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Daksa",
+      "Mental"
+    ],
+    "accommodations": [
+      "Pilihan Jam Mulai Kerja Sukarela",
+      "Subsidi Kuota Internet",
+      "Sensus Evaluatif Tanpa Desakan Psikologis"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-05-16T10:00:00Z"
+  },
+  {
+    "id": "job-29",
+    "title": "Arsiparis Data Kependudukan Kantor",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Mamuju, Sulawesi Barat (WFO)",
+    "salaryRange": "Rp 3.100.000 - Rp 3.650.000",
+    "description": "Menata sistem dokumen rujukan program kesehatan warga Sulawesi Barat ke dalam server folder lokal agar mudah dicari sewaktu-waktu.",
+    "requirements": [
+      "Mampu merapikan file berdasarkan format abjad atau tanggal kronologis.",
+      "Memiliki ketahanan bekerja dalam memilah ratusan entitas data per hari.",
+      "Mampu mematuhi kebijakan privasi data rumah tangga daerah."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Meja Kerja Rendah Ramah Kursi Roda",
+      "Formulir SOP Gambar Rias Sederhana",
+      "Rekan Pendamping Berdedikasi"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-05-15T09:00:00Z"
+  },
+  {
+    "id": "job-30",
+    "title": "Technical Support Chat Specialist",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Makassar, Sulawesi Selatan (WFO)",
+    "salaryRange": "Rp 4.400.000 - Rp 5.500.000",
+    "description": "Membimbing pelanggan internet kabel area Makassar dalam memulihkan koneksi router wifi berdasarkan panduan troubleshooting teks instruktif.",
+    "requirements": [
+      "Dasar pengetahuan tentang jaringan komputer / modem sederhana.",
+      "Kemampuan mengetik instruksi penyelesaian masalah secara jelas dan teratur.",
+      "Pendidikan minimal SMK Jurusan Jaringan (TKJ) atau setara."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Aplikasi Sistem Chat Otomatis",
+      "Kantor Cabang Inklusif dengan Ramp Lift",
+      "Latihan Peningkatan Karir Bebas Hambatan"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-05-14T08:00:00Z"
+  },
+  {
+    "id": "job-31",
+    "title": "Digital Database Admin Assistant",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Kendari, Sulawesi Tenggara (WFH)",
+    "salaryRange": "Rp 3.250.000 - Rp 3.900.000",
+    "description": "Melakukan perekapan berkas kelulusan pelatihan vokasi disabilitas di Sultra secara berkala. Pekerjaan penuh dari rumah via browser internet.",
+    "requirements": [
+      "Mengetahui dasar-dasar aplikasi penelusuran tabel di spreadsheet.",
+      "Kecermatan tinggi dalam pengetikan nama lengkap dan NIK KTP.",
+      "Konsisten mengirim laporan rekapan setiap hari Jumat sore."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa",
+      "Grahita"
+    ],
+    "accommodations": [
+      "Format File Ramah Tunanetra",
+      "Opsi Waktu Kerja Sangat Fleksibel",
+      "Mentor Komunikasi Online Suka Membantu"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-05-13T10:30:00Z"
+  },
+  {
+    "id": "job-32",
+    "title": "Social Media Admin Pariwisata Maluku",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Ambon, Maluku (WFO)",
+    "salaryRange": "Rp 3.300.000 - Rp 4.000.000",
+    "description": "Membalas pesan reservasi turis domestik ke destinasi wisata Maluku di akun pariwisata mitra kami dengan sapaan khas daerah yang hangat.",
+    "requirements": [
+      "Menyenangi diskusi seputar objek keindahan wisata bahari Maluku.",
+      "Memiliki gaya tulisan yang luwes, santun, dan komunikatif.",
+      "Aktif berselancar di kanal media sosial populer."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Daksa",
+      "Mental"
+    ],
+    "accommodations": [
+      "Kantor Ramah Kursi Roda di Pusat Ambon",
+      "Asisten Pendamping Saat Mengolah Data Tur",
+      "Waktu Kerja Tanpa Tekanan Shift Malam"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-05-12T11:00:00Z"
+  },
+  {
+    "id": "job-33",
+    "title": "Pencatat Data Logistik Cabang",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Ternate, Maluku Utara (WFH)",
+    "salaryRange": "Rp 3.200.000 - Rp 3.800.000",
+    "description": "Memantau daftar restock produk sembako dan mencatatkannya ke aplikasi logistik pusat retail Maluku Utara secara mandiri berbasis penugasan online harian.",
+    "requirements": [
+      "Sanggup berkomitmen menyelesaikan perekapan tepat pada waktu malam.",
+      "Menyukai ketelitian angka nominal harga barang.",
+      "Menggunakan HP Android atau laptop fungsional pribadi."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Remoting Penuh",
+      "Modul Panduan Bergambar Detail Ringkas",
+      "Pojok Curahan Kendala Dua Mingguan"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-05-11T09:00:00Z"
+  },
+  {
+    "id": "job-34",
+    "title": "Penyusun Dokumen Pelaporan",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Manokwari, Papua Barat (WFO)",
+    "salaryRange": "Rp 3.600.000 - Rp 4.300.000",
+    "description": "Menggabungkan potongan laporan aktivitas bulanan yayasan cabang Papua Barat menjadi satu dokumen rancangan kerja tahunan berkonten inklusif.",
+    "requirements": [
+      "Familiar dengan penulisan laporan rapi di Microsoft Word / Google Docs.",
+      "Memiliki pemahaman tata layang (margin, daftar isi) yang baik.",
+      "Bertanggung jawab atas kerapihan penyusunan berkas akhir."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Daksa",
+      "Mental"
+    ],
+    "accommodations": [
+      "Kantor Inovatif dengan Lift & Ramp",
+      "Headphone Peredam Kebisingan",
+      "Lisensi Software Peningkat Fokus"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-05-10T14:00:00Z"
+  },
+  {
+    "id": "job-35",
+    "title": "Asisten Evaluasi Layanan Belajar",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Jayapura, Papua (WFO)",
+    "salaryRange": "Rp 3.800.000 - Rp 4.500.000",
+    "description": "Menghimpun masukan tertulis dari guru-guru sekolah inklusif di wilayah Jayapura, mengodekannya ke kategori saran berharga.",
+    "requirements": [
+      "Terampil membaca dan meraba emosi teks masukan pembaca.",
+      "Kepatuhan tinggi pada kerapihan pengisian tabel data.",
+      "Bersedia mengikuti pelatihan pengenalan inklusivitas di Jayapura."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Format Perekapan Modular",
+      "Pendampingan Komunitas Isyarat Papua",
+      "Tempat Duduk Ramah Sandaran Ortopedi"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-09T09:00:00Z"
+  },
+  {
+    "id": "job-36",
+    "title": "Digital Marketing Admin",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Medan, Sumatera Utara (WFO)",
+    "salaryRange": "Rp 3.000.000 - Rp 5.500.000",
+    "description": "Mengelola operasional harian posisi Digital Marketing Admin yang berlandaskan komunikasi teks digital di Karya Mandiri Retail. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-05-11T01:49:20.449Z"
+  },
+  {
+    "id": "job-37",
+    "title": "Translator Inggris-Indonesia",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Palembang, Sumatera Selatan (WFH)",
+    "salaryRange": "Rp 3.500.000 - Rp 4.500.000",
+    "description": "Mengelola operasional harian posisi Translator Inggris-Indonesia yang berlandaskan komunikasi teks digital di PT Inklusi Indonesia Jaya. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-10T01:49:20.450Z"
+  },
+  {
+    "id": "job-38",
+    "title": "Online Forum Moderator",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Makassar, Sulawesi Selatan (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 5.500.000",
+    "description": "Kami membuka lowongan kerja Online Forum Moderator yang ramah aksesibilitas pembaca layar (screen reader) di Sentra Digital Utama. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-05-09T01:49:20.450Z"
+  },
+  {
+    "id": "job-39",
+    "title": "E-Commerce Admin",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Denpasar, Bali (WFO)",
+    "salaryRange": "Rp 4.500.000 - Rp 6.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai E-Commerce Admin bersama Nusa Bakti Sejahtera. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-05-08T01:49:20.450Z"
+  },
+  {
+    "id": "job-40",
+    "title": "Data Entry Specialist",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Balikpapan, Kalimantan Timur (WFH)",
+    "salaryRange": "Rp 5.000.000 - Rp 7.500.000",
+    "description": "Mengelola operasional harian posisi Data Entry Specialist yang berlandaskan komunikasi teks digital di Kreatif Mandiri Jaya. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Netra",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-05-07T01:49:20.450Z"
+  },
+  {
+    "id": "job-41",
+    "title": "Customer Service Chat Representative",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Samarinda, Kalimantan Timur (WFO)",
+    "salaryRange": "Rp 5.500.000 - Rp 6.500.000",
+    "description": "Posisi Customer Service Chat Representative di PT Global Sentra Solusi dirancang ramah bagi penyandang disabilitas fisik/daksa. Lokasi kerja menyediakan infrastruktur ramah kursi roda, kruk, atau opsi kerja penuh jarak jauh (WFH) dari tempat tinggal Anda.",
+    "requirements": [
+      "Mengerti pengoperasian tools penulisan dokumen standar.",
+      "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
+      "Jujur, disiplin, dan bersemangat untuk terus berkembang."
+    ],
+    "disabilityTypes": [
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-05-06T01:49:20.450Z"
+  },
+  {
+    "id": "job-42",
+    "title": "Social Media Admin",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Pontianak, Kalimantan Barat (WFO)",
+    "salaryRange": "Rp 6.000.000 - Rp 7.500.000",
+    "description": "Kami membuka lowongan kerja Social Media Admin yang ramah aksesibilitas pembaca layar (screen reader) di Teknologi Hijau Nusantara. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Aplikasi Pembaca Layar",
+      "Headphone Peredam Bising"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-05-05T01:49:20.450Z"
+  },
+  {
+    "id": "job-43",
+    "title": "Content Writer & Editor",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Banjarmasin, Kalimantan Selatan (WFH)",
+    "salaryRange": "Rp 3.000.000 - Rp 5.000.000",
+    "description": "Mengelola operasional harian posisi Content Writer & Editor yang berlandaskan komunikasi teks digital di Deco Digital Creative Studio. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Penerjemah Bahasa Isyarat",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-05-04T01:49:20.450Z"
+  },
+  {
+    "id": "job-44",
+    "title": "Administrative Assistant",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Manado, Sulawesi Utara (WFO)",
+    "salaryRange": "Rp 3.500.000 - Rp 6.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Administrative Assistant bersama Karya Mandiri Retail. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-05-03T01:49:20.450Z"
+  },
+  {
+    "id": "job-45",
+    "title": "Junior Web Developer",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Jayapura, Papua (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 5.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Junior Web Developer bersama PT Inklusi Indonesia Jaya. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-02T01:49:20.450Z"
+  },
+  {
+    "id": "job-46",
+    "title": "Graphic Designer Assistant",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Kupang, Nusa Tenggara Timur (WFH)",
+    "salaryRange": "Rp 4.500.000 - Rp 6.000.000",
+    "description": "Mengelola operasional harian posisi Graphic Designer Assistant yang berlandaskan komunikasi teks digital di Sentra Digital Utama. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Penerjemah Bahasa Isyarat",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-06-15T01:49:20.450Z"
+  },
+  {
+    "id": "job-47",
+    "title": "Quality Assurance Tester",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Mataram, Nusa Tenggara Barat (WFO)",
+    "salaryRange": "Rp 5.000.000 - Rp 7.000.000",
+    "description": "Mengelola operasional harian posisi Quality Assurance Tester yang berlandaskan komunikasi teks digital di Nusa Bakti Sejahtera. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-06-14T01:49:20.451Z"
+  },
+  {
+    "id": "job-48",
+    "title": "Virtual Office Assistant",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Ambon, Maluku (WFO)",
+    "salaryRange": "Rp 5.500.000 - Rp 8.000.000",
+    "description": "Kami membuka lowongan kerja Virtual Office Assistant yang ramah aksesibilitas pembaca layar (screen reader) di Kreatif Mandiri Jaya. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-06-13T01:49:20.451Z"
+  },
+  {
+    "id": "job-49",
+    "title": "Digital Marketing Admin",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Pekanbaru, Riau (WFH)",
+    "salaryRange": "Rp 6.000.000 - Rp 7.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Digital Marketing Admin bersama PT Global Sentra Solusi. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-06-12T01:49:20.451Z"
+  },
+  {
+    "id": "job-50",
+    "title": "Translator Inggris-Indonesia",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Batam, Kepulauan Riau (WFO)",
+    "salaryRange": "Rp 3.000.000 - Rp 4.500.000",
+    "description": "Mengelola operasional harian posisi Translator Inggris-Indonesia yang berlandaskan komunikasi teks digital di Teknologi Hijau Nusantara. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Netra",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-06-11T01:49:20.451Z"
+  },
+  {
+    "id": "job-51",
+    "title": "Online Forum Moderator",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Serang, Banten (WFO)",
+    "salaryRange": "Rp 3.500.000 - Rp 5.500.000",
+    "description": "Posisi Online Forum Moderator di Deco Digital Creative Studio dirancang ramah bagi penyandang disabilitas fisik/daksa. Lokasi kerja menyediakan infrastruktur ramah kursi roda, kruk, atau opsi kerja penuh jarak jauh (WFH) dari tempat tinggal Anda.",
+    "requirements": [
+      "Mengerti pengoperasian tools penulisan dokumen standar.",
+      "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
+      "Jujur, disiplin, dan bersemangat untuk terus berkembang."
+    ],
+    "disabilityTypes": [
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-06-10T01:49:20.451Z"
+  },
+  {
+    "id": "job-52",
+    "title": "E-Commerce Admin",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Padang, Sumatera Barat (WFH)",
+    "salaryRange": "Rp 4.000.000 - Rp 6.500.000",
+    "description": "Kami membuka lowongan kerja E-Commerce Admin yang ramah aksesibilitas pembaca layar (screen reader) di Karya Mandiri Retail. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Aplikasi Pembaca Layar",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-06-09T01:49:20.451Z"
+  },
+  {
+    "id": "job-53",
+    "title": "Data Entry Specialist",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Banda Aceh, Aceh (WFO)",
+    "salaryRange": "Rp 4.500.000 - Rp 5.500.000",
+    "description": "Mengelola operasional harian posisi Data Entry Specialist yang berlandaskan komunikasi teks digital di PT Inklusi Indonesia Jaya. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Ramp Kursi Roda & Lift"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-06-08T01:49:20.451Z"
+  },
+  {
+    "id": "job-54",
+    "title": "Customer Service Chat Representative",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Jambi, Jambi (WFO)",
+    "salaryRange": "Rp 5.000.000 - Rp 6.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Customer Service Chat Representative bersama Sentra Digital Utama. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-06-07T01:49:20.451Z"
+  },
+  {
+    "id": "job-55",
+    "title": "Social Media Admin",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Bengkulu, Bengkulu (WFH)",
+    "salaryRange": "Rp 5.500.000 - Rp 7.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Social Media Admin bersama Nusa Bakti Sejahtera. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Mental"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-06-06T01:49:20.451Z"
+  },
+  {
+    "id": "job-56",
+    "title": "Content Writer & Editor",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Pangkalpinang, Babel (WFO)",
+    "salaryRange": "Rp 6.000.000 - Rp 8.500.000",
+    "description": "Mengelola operasional harian posisi Content Writer & Editor yang berlandaskan komunikasi teks digital di Kreatif Mandiri Jaya. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-06-05T01:49:20.451Z"
+  },
+  {
+    "id": "job-57",
+    "title": "Administrative Assistant",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Bandar Lampung, Lampung (WFO)",
+    "salaryRange": "Rp 3.000.000 - Rp 4.000.000",
+    "description": "Mengelola operasional harian posisi Administrative Assistant yang berlandaskan komunikasi teks digital di PT Global Sentra Solusi. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-06-04T01:49:20.451Z"
+  },
+  {
+    "id": "job-58",
+    "title": "Junior Web Developer",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Ternate, Maluku Utara (WFH)",
+    "salaryRange": "Rp 3.500.000 - Rp 5.000.000",
+    "description": "Kami membuka lowongan kerja Junior Web Developer yang ramah aksesibilitas pembaca layar (screen reader) di Teknologi Hijau Nusantara. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Aplikasi Pembaca Layar",
+      "Lingkungan Kerja Tenang & Redup"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-06-03T01:49:20.451Z"
+  },
+  {
+    "id": "job-59",
+    "title": "Graphic Designer Assistant",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Manokwari, Papua Barat (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 6.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Graphic Designer Assistant bersama Deco Digital Creative Studio. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-06-02T01:49:20.451Z"
+  },
+  {
+    "id": "job-60",
+    "title": "Quality Assurance Tester",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Palu, Sulawesi Tengah (WFO)",
+    "salaryRange": "Rp 4.500.000 - Rp 7.000.000",
+    "description": "Mengelola operasional harian posisi Quality Assurance Tester yang berlandaskan komunikasi teks digital di Karya Mandiri Retail. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Netra",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-06-01T01:49:20.451Z"
+  },
+  {
+    "id": "job-61",
+    "title": "Virtual Office Assistant",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Surabaya, Jawa Timur (WFH)",
+    "salaryRange": "Rp 5.000.000 - Rp 6.000.000",
+    "description": "Posisi Virtual Office Assistant di PT Inklusi Indonesia Jaya dirancang ramah bagi penyandang disabilitas fisik/daksa. Lokasi kerja menyediakan infrastruktur ramah kursi roda, kruk, atau opsi kerja penuh jarak jauh (WFH) dari tempat tinggal Anda.",
+    "requirements": [
+      "Mengerti pengoperasian tools penulisan dokumen standar.",
+      "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
+      "Jujur, disiplin, dan bersemangat untuk terus berkembang."
+    ],
+    "disabilityTypes": [
+      "Daksa"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Headphone Peredam Bising",
+      "Ramp Kursi Roda & Lift"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-31T01:49:20.451Z"
+  },
+  {
+    "id": "job-62",
+    "title": "Digital Marketing Admin",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Sleman, DI Yogyakarta (WFO)",
+    "salaryRange": "Rp 5.500.000 - Rp 7.000.000",
+    "description": "Kami membuka lowongan kerja Digital Marketing Admin yang ramah aksesibilitas pembaca layar (screen reader) di Sentra Digital Utama. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Aplikasi Pembaca Layar",
+      "Ramp Kursi Roda & Lift"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-05-30T01:49:20.451Z"
+  },
+  {
+    "id": "job-63",
+    "title": "Translator Inggris-Indonesia",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Bandung, Jawa Barat (WFO)",
+    "salaryRange": "Rp 6.000.000 - Rp 8.000.000",
+    "description": "Mengelola operasional harian posisi Translator Inggris-Indonesia yang berlandaskan komunikasi teks digital di Nusa Bakti Sejahtera. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Aplikasi Pembaca Layar"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-05-29T01:49:20.451Z"
+  },
+  {
+    "id": "job-64",
+    "title": "Online Forum Moderator",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Jakarta Selatan, DKI Jakarta (WFH)",
+    "salaryRange": "Rp 3.000.000 - Rp 5.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Online Forum Moderator bersama Kreatif Mandiri Jaya. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-05-28T01:49:20.451Z"
+  },
+  {
+    "id": "job-65",
+    "title": "E-Commerce Admin",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Semarang, Jawa Tengah (WFO)",
+    "salaryRange": "Rp 3.500.000 - Rp 4.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai E-Commerce Admin bersama PT Global Sentra Solusi. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-05-27T01:49:20.451Z"
+  },
+  {
+    "id": "job-66",
+    "title": "Data Entry Specialist",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Medan, Sumatera Utara (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 5.500.000",
+    "description": "Mengelola operasional harian posisi Data Entry Specialist yang berlandaskan komunikasi teks digital di Teknologi Hijau Nusantara. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-05-26T01:49:20.451Z"
+  },
+  {
+    "id": "job-67",
+    "title": "Customer Service Chat Representative",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Palembang, Sumatera Selatan (WFH)",
+    "salaryRange": "Rp 4.500.000 - Rp 6.500.000",
+    "description": "Mengelola operasional harian posisi Customer Service Chat Representative yang berlandaskan komunikasi teks digital di Deco Digital Creative Studio. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-05-25T01:49:20.451Z"
+  },
+  {
+    "id": "job-68",
+    "title": "Social Media Admin",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Makassar, Sulawesi Selatan (WFO)",
+    "salaryRange": "Rp 5.000.000 - Rp 7.500.000",
+    "description": "Kami membuka lowongan kerja Social Media Admin yang ramah aksesibilitas pembaca layar (screen reader) di Karya Mandiri Retail. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-05-24T01:49:20.451Z"
+  },
+  {
+    "id": "job-69",
+    "title": "Content Writer & Editor",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Denpasar, Bali (WFO)",
+    "salaryRange": "Rp 5.500.000 - Rp 6.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Content Writer & Editor bersama PT Inklusi Indonesia Jaya. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-23T01:49:20.451Z"
+  },
+  {
+    "id": "job-70",
+    "title": "Administrative Assistant",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Balikpapan, Kalimantan Timur (WFH)",
+    "salaryRange": "Rp 6.000.000 - Rp 7.500.000",
+    "description": "Mengelola operasional harian posisi Administrative Assistant yang berlandaskan komunikasi teks digital di Sentra Digital Utama. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Netra",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-05-22T01:49:20.451Z"
+  },
+  {
+    "id": "job-71",
+    "title": "Junior Web Developer",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Samarinda, Kalimantan Timur (WFO)",
+    "salaryRange": "Rp 3.000.000 - Rp 5.000.000",
+    "description": "Posisi Junior Web Developer di Nusa Bakti Sejahtera dirancang ramah bagi penyandang disabilitas fisik/daksa. Lokasi kerja menyediakan infrastruktur ramah kursi roda, kruk, atau opsi kerja penuh jarak jauh (WFH) dari tempat tinggal Anda.",
+    "requirements": [
+      "Mengerti pengoperasian tools penulisan dokumen standar.",
+      "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
+      "Jujur, disiplin, dan bersemangat untuk terus berkembang."
+    ],
+    "disabilityTypes": [
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-05-21T01:49:20.451Z"
+  },
+  {
+    "id": "job-72",
+    "title": "Graphic Designer Assistant",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Pontianak, Kalimantan Barat (WFO)",
+    "salaryRange": "Rp 3.500.000 - Rp 6.000.000",
+    "description": "Kami membuka lowongan kerja Graphic Designer Assistant yang ramah aksesibilitas pembaca layar (screen reader) di Kreatif Mandiri Jaya. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-05-20T01:49:20.451Z"
+  },
+  {
+    "id": "job-73",
+    "title": "Quality Assurance Tester",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Banjarmasin, Kalimantan Selatan (WFH)",
+    "salaryRange": "Rp 4.000.000 - Rp 5.000.000",
+    "description": "Mengelola operasional harian posisi Quality Assurance Tester yang berlandaskan komunikasi teks digital di PT Global Sentra Solusi. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Penerjemah Bahasa Isyarat",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-05-19T01:49:20.451Z"
+  },
+  {
+    "id": "job-74",
+    "title": "Virtual Office Assistant",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Manado, Sulawesi Utara (WFO)",
+    "salaryRange": "Rp 4.500.000 - Rp 6.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Virtual Office Assistant bersama Teknologi Hijau Nusantara. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-05-18T01:49:20.451Z"
+  },
+  {
+    "id": "job-75",
+    "title": "Digital Marketing Admin",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Jayapura, Papua (WFO)",
+    "salaryRange": "Rp 5.000.000 - Rp 7.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Digital Marketing Admin bersama Deco Digital Creative Studio. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-05-17T01:49:20.451Z"
+  },
+  {
+    "id": "job-76",
+    "title": "Translator Inggris-Indonesia",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Kupang, Nusa Tenggara Timur (WFH)",
+    "salaryRange": "Rp 5.500.000 - Rp 8.000.000",
+    "description": "Mengelola operasional harian posisi Translator Inggris-Indonesia yang berlandaskan komunikasi teks digital di Karya Mandiri Retail. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-05-16T01:49:20.451Z"
+  },
+  {
+    "id": "job-77",
+    "title": "Online Forum Moderator",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Mataram, Nusa Tenggara Barat (WFO)",
+    "salaryRange": "Rp 6.000.000 - Rp 7.000.000",
+    "description": "Mengelola operasional harian posisi Online Forum Moderator yang berlandaskan komunikasi teks digital di PT Inklusi Indonesia Jaya. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-15T01:49:20.451Z"
+  },
+  {
+    "id": "job-78",
+    "title": "E-Commerce Admin",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Ambon, Maluku (WFO)",
+    "salaryRange": "Rp 3.000.000 - Rp 4.500.000",
+    "description": "Kami membuka lowongan kerja E-Commerce Admin yang ramah aksesibilitas pembaca layar (screen reader) di Sentra Digital Utama. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-05-14T01:49:20.451Z"
+  },
+  {
+    "id": "job-79",
+    "title": "Data Entry Specialist",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Pekanbaru, Riau (WFH)",
+    "salaryRange": "Rp 3.500.000 - Rp 5.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Data Entry Specialist bersama Nusa Bakti Sejahtera. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-05-13T01:49:20.451Z"
+  },
+  {
+    "id": "job-80",
+    "title": "Customer Service Chat Representative",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Batam, Kepulauan Riau (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 6.500.000",
+    "description": "Mengelola operasional harian posisi Customer Service Chat Representative yang berlandaskan komunikasi teks digital di Kreatif Mandiri Jaya. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Netra",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-05-12T01:49:20.451Z"
+  },
+  {
+    "id": "job-81",
+    "title": "Social Media Admin",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Serang, Banten (WFO)",
+    "salaryRange": "Rp 4.500.000 - Rp 5.500.000",
+    "description": "Posisi Social Media Admin di PT Global Sentra Solusi dirancang ramah bagi penyandang disabilitas fisik/daksa. Lokasi kerja menyediakan infrastruktur ramah kursi roda, kruk, atau opsi kerja penuh jarak jauh (WFH) dari tempat tinggal Anda.",
+    "requirements": [
+      "Mengerti pengoperasian tools penulisan dokumen standar.",
+      "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
+      "Jujur, disiplin, dan bersemangat untuk terus berkembang."
+    ],
+    "disabilityTypes": [
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-05-11T01:49:20.451Z"
+  },
+  {
+    "id": "job-82",
+    "title": "Content Writer & Editor",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Padang, Sumatera Barat (WFH)",
+    "salaryRange": "Rp 5.000.000 - Rp 6.500.000",
+    "description": "Kami membuka lowongan kerja Content Writer & Editor yang ramah aksesibilitas pembaca layar (screen reader) di Teknologi Hijau Nusantara. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-05-10T01:49:20.451Z"
+  },
+  {
+    "id": "job-83",
+    "title": "Administrative Assistant",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Banda Aceh, Aceh (WFO)",
+    "salaryRange": "Rp 5.500.000 - Rp 7.500.000",
+    "description": "Mengelola operasional harian posisi Administrative Assistant yang berlandaskan komunikasi teks digital di Deco Digital Creative Studio. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-05-09T01:49:20.451Z"
+  },
+  {
+    "id": "job-84",
+    "title": "Junior Web Developer",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Jambi, Jambi (WFO)",
+    "salaryRange": "Rp 6.000.000 - Rp 8.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Junior Web Developer bersama Karya Mandiri Retail. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-05-08T01:49:20.451Z"
+  },
+  {
+    "id": "job-85",
+    "title": "Graphic Designer Assistant",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Bengkulu, Bengkulu (WFH)",
+    "salaryRange": "Rp 3.000.000 - Rp 4.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Graphic Designer Assistant bersama PT Inklusi Indonesia Jaya. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Mental"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-07T01:49:20.451Z"
+  },
+  {
+    "id": "job-86",
+    "title": "Quality Assurance Tester",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Pangkalpinang, Babel (WFO)",
+    "salaryRange": "Rp 3.500.000 - Rp 5.000.000",
+    "description": "Mengelola operasional harian posisi Quality Assurance Tester yang berlandaskan komunikasi teks digital di Sentra Digital Utama. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-05-06T01:49:20.451Z"
+  },
+  {
+    "id": "job-87",
+    "title": "Virtual Office Assistant",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Bandar Lampung, Lampung (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 6.000.000",
+    "description": "Mengelola operasional harian posisi Virtual Office Assistant yang berlandaskan komunikasi teks digital di Nusa Bakti Sejahtera. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-05-05T01:49:20.451Z"
+  },
+  {
+    "id": "job-88",
+    "title": "Digital Marketing Admin",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Ternate, Maluku Utara (WFH)",
+    "salaryRange": "Rp 4.500.000 - Rp 7.000.000",
+    "description": "Kami membuka lowongan kerja Digital Marketing Admin yang ramah aksesibilitas pembaca layar (screen reader) di Kreatif Mandiri Jaya. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Aplikasi Pembaca Layar",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-05-04T01:49:20.451Z"
+  },
+  {
+    "id": "job-89",
+    "title": "Translator Inggris-Indonesia",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Manokwari, Papua Barat (WFO)",
+    "salaryRange": "Rp 5.000.000 - Rp 6.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Translator Inggris-Indonesia bersama PT Global Sentra Solusi. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-05-03T01:49:20.451Z"
+  },
+  {
+    "id": "job-90",
+    "title": "Online Forum Moderator",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Palu, Sulawesi Tengah (WFO)",
+    "salaryRange": "Rp 5.500.000 - Rp 7.000.000",
+    "description": "Mengelola operasional harian posisi Online Forum Moderator yang berlandaskan komunikasi teks digital di Teknologi Hijau Nusantara. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Netra",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-05-02T01:49:20.451Z"
+  },
+  {
+    "id": "job-91",
+    "title": "E-Commerce Admin",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Surabaya, Jawa Timur (WFH)",
+    "salaryRange": "Rp 6.000.000 - Rp 8.000.000",
+    "description": "Posisi E-Commerce Admin di Deco Digital Creative Studio dirancang ramah bagi penyandang disabilitas fisik/daksa. Lokasi kerja menyediakan infrastruktur ramah kursi roda, kruk, atau opsi kerja penuh jarak jauh (WFH) dari tempat tinggal Anda.",
+    "requirements": [
+      "Mengerti pengoperasian tools penulisan dokumen standar.",
+      "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
+      "Jujur, disiplin, dan bersemangat untuk terus berkembang."
+    ],
+    "disabilityTypes": [
+      "Daksa"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Aplikasi Pembaca Layar",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-06-15T01:49:20.451Z"
+  },
+  {
+    "id": "job-92",
+    "title": "Data Entry Specialist",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Sleman, DI Yogyakarta (WFO)",
+    "salaryRange": "Rp 3.000.000 - Rp 5.500.000",
+    "description": "Kami membuka lowongan kerja Data Entry Specialist yang ramah aksesibilitas pembaca layar (screen reader) di Karya Mandiri Retail. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Aplikasi Pembaca Layar",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-06-14T01:49:20.451Z"
+  },
+  {
+    "id": "job-93",
+    "title": "Customer Service Chat Representative",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Bandung, Jawa Barat (WFO)",
+    "salaryRange": "Rp 3.500.000 - Rp 4.500.000",
+    "description": "Mengelola operasional harian posisi Customer Service Chat Representative yang berlandaskan komunikasi teks digital di PT Inklusi Indonesia Jaya. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Pekerjaan Rumah Penuh (WFH)"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-06-13T01:49:20.451Z"
+  },
+  {
+    "id": "job-94",
+    "title": "Social Media Admin",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Jakarta Selatan, DKI Jakarta (WFH)",
+    "salaryRange": "Rp 4.000.000 - Rp 5.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Social Media Admin bersama Sentra Digital Utama. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-06-12T01:49:20.451Z"
+  },
+  {
+    "id": "job-95",
+    "title": "Content Writer & Editor",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Semarang, Jawa Tengah (WFO)",
+    "salaryRange": "Rp 4.500.000 - Rp 6.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Content Writer & Editor bersama Nusa Bakti Sejahtera. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-06-11T01:49:20.451Z"
+  },
+  {
+    "id": "job-96",
+    "title": "Administrative Assistant",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Medan, Sumatera Utara (WFO)",
+    "salaryRange": "Rp 5.000.000 - Rp 7.500.000",
+    "description": "Mengelola operasional harian posisi Administrative Assistant yang berlandaskan komunikasi teks digital di Kreatif Mandiri Jaya. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-06-10T01:49:20.451Z"
+  },
+  {
+    "id": "job-97",
+    "title": "Junior Web Developer",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Palembang, Sumatera Selatan (WFH)",
+    "salaryRange": "Rp 5.500.000 - Rp 6.500.000",
+    "description": "Mengelola operasional harian posisi Junior Web Developer yang berlandaskan komunikasi teks digital di PT Global Sentra Solusi. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-06-09T01:49:20.451Z"
+  },
+  {
+    "id": "job-98",
+    "title": "Graphic Designer Assistant",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Makassar, Sulawesi Selatan (WFO)",
+    "salaryRange": "Rp 6.000.000 - Rp 7.500.000",
+    "description": "Kami membuka lowongan kerja Graphic Designer Assistant yang ramah aksesibilitas pembaca layar (screen reader) di Teknologi Hijau Nusantara. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-06-08T01:49:20.451Z"
+  },
+  {
+    "id": "job-99",
+    "title": "Quality Assurance Tester",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Denpasar, Bali (WFO)",
+    "salaryRange": "Rp 3.000.000 - Rp 5.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Quality Assurance Tester bersama Deco Digital Creative Studio. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-06-07T01:49:20.451Z"
+  },
+  {
+    "id": "job-100",
+    "title": "Virtual Office Assistant",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Balikpapan, Kalimantan Timur (WFH)",
+    "salaryRange": "Rp 3.500.000 - Rp 6.000.000",
+    "description": "Mengelola operasional harian posisi Virtual Office Assistant yang berlandaskan komunikasi teks digital di Karya Mandiri Retail. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Netra",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-06-06T01:49:20.451Z"
+  },
+  {
+    "id": "job-101",
+    "title": "Digital Marketing Admin",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Samarinda, Kalimantan Timur (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 5.000.000",
+    "description": "Posisi Digital Marketing Admin di PT Inklusi Indonesia Jaya dirancang ramah bagi penyandang disabilitas fisik/daksa. Lokasi kerja menyediakan infrastruktur ramah kursi roda, kruk, atau opsi kerja penuh jarak jauh (WFH) dari tempat tinggal Anda.",
+    "requirements": [
+      "Mengerti pengoperasian tools penulisan dokumen standar.",
+      "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
+      "Jujur, disiplin, dan bersemangat untuk terus berkembang."
+    ],
+    "disabilityTypes": [
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-06-05T01:49:20.451Z"
+  },
+  {
+    "id": "job-102",
+    "title": "Translator Inggris-Indonesia",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Pontianak, Kalimantan Barat (WFO)",
+    "salaryRange": "Rp 4.500.000 - Rp 6.000.000",
+    "description": "Kami membuka lowongan kerja Translator Inggris-Indonesia yang ramah aksesibilitas pembaca layar (screen reader) di Sentra Digital Utama. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Aplikasi Pembaca Layar",
+      "Pekerjaan Rumah Penuh (WFH)"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-06-04T01:49:20.451Z"
+  },
+  {
+    "id": "job-103",
+    "title": "Online Forum Moderator",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Banjarmasin, Kalimantan Selatan (WFH)",
+    "salaryRange": "Rp 5.000.000 - Rp 7.000.000",
+    "description": "Mengelola operasional harian posisi Online Forum Moderator yang berlandaskan komunikasi teks digital di Nusa Bakti Sejahtera. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-06-03T01:49:20.451Z"
+  },
+  {
+    "id": "job-104",
+    "title": "E-Commerce Admin",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Manado, Sulawesi Utara (WFO)",
+    "salaryRange": "Rp 5.500.000 - Rp 8.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai E-Commerce Admin bersama Kreatif Mandiri Jaya. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-06-02T01:49:20.451Z"
+  },
+  {
+    "id": "job-105",
+    "title": "Data Entry Specialist",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Jayapura, Papua (WFO)",
+    "salaryRange": "Rp 6.000.000 - Rp 7.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Data Entry Specialist bersama PT Global Sentra Solusi. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-06-01T01:49:20.451Z"
+  },
+  {
+    "id": "job-106",
+    "title": "Customer Service Chat Representative",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Kupang, Nusa Tenggara Timur (WFH)",
+    "salaryRange": "Rp 3.000.000 - Rp 4.500.000",
+    "description": "Mengelola operasional harian posisi Customer Service Chat Representative yang berlandaskan komunikasi teks digital di Teknologi Hijau Nusantara. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Penerjemah Bahasa Isyarat",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-05-31T01:49:20.451Z"
+  },
+  {
+    "id": "job-107",
+    "title": "Social Media Admin",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Mataram, Nusa Tenggara Barat (WFO)",
+    "salaryRange": "Rp 3.500.000 - Rp 5.500.000",
+    "description": "Mengelola operasional harian posisi Social Media Admin yang berlandaskan komunikasi teks digital di Deco Digital Creative Studio. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-05-30T01:49:20.451Z"
+  },
+  {
+    "id": "job-108",
+    "title": "Content Writer & Editor",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Ambon, Maluku (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 6.500.000",
+    "description": "Kami membuka lowongan kerja Content Writer & Editor yang ramah aksesibilitas pembaca layar (screen reader) di Karya Mandiri Retail. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-05-29T01:49:20.451Z"
+  },
+  {
+    "id": "job-109",
+    "title": "Administrative Assistant",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Pekanbaru, Riau (WFH)",
+    "salaryRange": "Rp 4.500.000 - Rp 5.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Administrative Assistant bersama PT Inklusi Indonesia Jaya. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-28T01:49:20.451Z"
+  },
+  {
+    "id": "job-110",
+    "title": "Junior Web Developer",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Batam, Kepulauan Riau (WFO)",
+    "salaryRange": "Rp 5.000.000 - Rp 6.500.000",
+    "description": "Mengelola operasional harian posisi Junior Web Developer yang berlandaskan komunikasi teks digital di Sentra Digital Utama. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Netra",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-05-27T01:49:20.451Z"
+  },
+  {
+    "id": "job-111",
+    "title": "Graphic Designer Assistant",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Serang, Banten (WFO)",
+    "salaryRange": "Rp 5.500.000 - Rp 7.500.000",
+    "description": "Posisi Graphic Designer Assistant di Nusa Bakti Sejahtera dirancang ramah bagi penyandang disabilitas fisik/daksa. Lokasi kerja menyediakan infrastruktur ramah kursi roda, kruk, atau opsi kerja penuh jarak jauh (WFH) dari tempat tinggal Anda.",
+    "requirements": [
+      "Mengerti pengoperasian tools penulisan dokumen standar.",
+      "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
+      "Jujur, disiplin, dan bersemangat untuk terus berkembang."
+    ],
+    "disabilityTypes": [
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-05-26T01:49:20.451Z"
+  },
+  {
+    "id": "job-112",
+    "title": "Quality Assurance Tester",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Padang, Sumatera Barat (WFH)",
+    "salaryRange": "Rp 6.000.000 - Rp 8.500.000",
+    "description": "Kami membuka lowongan kerja Quality Assurance Tester yang ramah aksesibilitas pembaca layar (screen reader) di Kreatif Mandiri Jaya. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Aplikasi Pembaca Layar",
+      "Lingkungan Kerja Tenang & Redup"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-05-25T01:49:20.451Z"
+  },
+  {
+    "id": "job-113",
+    "title": "Virtual Office Assistant",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Banda Aceh, Aceh (WFO)",
+    "salaryRange": "Rp 3.000.000 - Rp 4.000.000",
+    "description": "Mengelola operasional harian posisi Virtual Office Assistant yang berlandaskan komunikasi teks digital di PT Global Sentra Solusi. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-05-24T01:49:20.451Z"
+  },
+  {
+    "id": "job-114",
+    "title": "Digital Marketing Admin",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Jambi, Jambi (WFO)",
+    "salaryRange": "Rp 3.500.000 - Rp 5.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Digital Marketing Admin bersama Teknologi Hijau Nusantara. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-05-23T01:49:20.451Z"
+  },
+  {
+    "id": "job-115",
+    "title": "Translator Inggris-Indonesia",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Bengkulu, Bengkulu (WFH)",
+    "salaryRange": "Rp 4.000.000 - Rp 6.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Translator Inggris-Indonesia bersama Deco Digital Creative Studio. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Mental"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-05-22T01:49:20.451Z"
+  },
+  {
+    "id": "job-116",
+    "title": "Online Forum Moderator",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Pangkalpinang, Babel (WFO)",
+    "salaryRange": "Rp 4.500.000 - Rp 7.000.000",
+    "description": "Mengelola operasional harian posisi Online Forum Moderator yang berlandaskan komunikasi teks digital di Karya Mandiri Retail. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-05-21T01:49:20.451Z"
+  },
+  {
+    "id": "job-117",
+    "title": "E-Commerce Admin",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Bandar Lampung, Lampung (WFO)",
+    "salaryRange": "Rp 5.000.000 - Rp 6.000.000",
+    "description": "Mengelola operasional harian posisi E-Commerce Admin yang berlandaskan komunikasi teks digital di PT Inklusi Indonesia Jaya. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-20T01:49:20.451Z"
+  },
+  {
+    "id": "job-118",
+    "title": "Data Entry Specialist",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Ternate, Maluku Utara (WFH)",
+    "salaryRange": "Rp 5.500.000 - Rp 7.000.000",
+    "description": "Kami membuka lowongan kerja Data Entry Specialist yang ramah aksesibilitas pembaca layar (screen reader) di Sentra Digital Utama. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-05-19T01:49:20.451Z"
+  },
+  {
+    "id": "job-119",
+    "title": "Customer Service Chat Representative",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Manokwari, Papua Barat (WFO)",
+    "salaryRange": "Rp 6.000.000 - Rp 8.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Customer Service Chat Representative bersama Nusa Bakti Sejahtera. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-05-18T01:49:20.451Z"
+  },
+  {
+    "id": "job-120",
+    "title": "Social Media Admin",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Palu, Sulawesi Tengah (WFO)",
+    "salaryRange": "Rp 3.000.000 - Rp 5.500.000",
+    "description": "Mengelola operasional harian posisi Social Media Admin yang berlandaskan komunikasi teks digital di Kreatif Mandiri Jaya. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Netra",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-05-17T01:49:20.451Z"
+  },
+  {
+    "id": "job-121",
+    "title": "Content Writer & Editor",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Surabaya, Jawa Timur (WFH)",
+    "salaryRange": "Rp 3.500.000 - Rp 4.500.000",
+    "description": "Posisi Content Writer & Editor di PT Global Sentra Solusi dirancang ramah bagi penyandang disabilitas fisik/daksa. Lokasi kerja menyediakan infrastruktur ramah kursi roda, kruk, atau opsi kerja penuh jarak jauh (WFH) dari tempat tinggal Anda.",
+    "requirements": [
+      "Mengerti pengoperasian tools penulisan dokumen standar.",
+      "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
+      "Jujur, disiplin, dan bersemangat untuk terus berkembang."
+    ],
+    "disabilityTypes": [
+      "Daksa"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-05-16T01:49:20.451Z"
+  },
+  {
+    "id": "job-122",
+    "title": "Administrative Assistant",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Sleman, DI Yogyakarta (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 5.500.000",
+    "description": "Kami membuka lowongan kerja Administrative Assistant yang ramah aksesibilitas pembaca layar (screen reader) di Teknologi Hijau Nusantara. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Aplikasi Pembaca Layar",
+      "Lingkungan Kerja Tenang & Redup"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-05-15T01:49:20.451Z"
+  },
+  {
+    "id": "job-123",
+    "title": "Junior Web Developer",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Bandung, Jawa Barat (WFO)",
+    "salaryRange": "Rp 4.500.000 - Rp 6.500.000",
+    "description": "Mengelola operasional harian posisi Junior Web Developer yang berlandaskan komunikasi teks digital di Deco Digital Creative Studio. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Headphone Peredam Bising"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-05-14T01:49:20.451Z"
+  },
+  {
+    "id": "job-124",
+    "title": "Graphic Designer Assistant",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Jakarta Selatan, DKI Jakarta (WFH)",
+    "salaryRange": "Rp 5.000.000 - Rp 7.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Graphic Designer Assistant bersama Karya Mandiri Retail. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-05-13T01:49:20.451Z"
+  },
+  {
+    "id": "job-125",
+    "title": "Quality Assurance Tester",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Semarang, Jawa Tengah (WFO)",
+    "salaryRange": "Rp 5.500.000 - Rp 6.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Quality Assurance Tester bersama PT Inklusi Indonesia Jaya. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-12T01:49:20.451Z"
+  },
+  {
+    "id": "job-126",
+    "title": "Virtual Office Assistant",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Medan, Sumatera Utara (WFO)",
+    "salaryRange": "Rp 6.000.000 - Rp 7.500.000",
+    "description": "Mengelola operasional harian posisi Virtual Office Assistant yang berlandaskan komunikasi teks digital di Sentra Digital Utama. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-05-11T01:49:20.451Z"
+  },
+  {
+    "id": "job-127",
+    "title": "Digital Marketing Admin",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Palembang, Sumatera Selatan (WFH)",
+    "salaryRange": "Rp 3.000.000 - Rp 5.000.000",
+    "description": "Mengelola operasional harian posisi Digital Marketing Admin yang berlandaskan komunikasi teks digital di Nusa Bakti Sejahtera. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-05-10T01:49:20.451Z"
+  },
+  {
+    "id": "job-128",
+    "title": "Translator Inggris-Indonesia",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Makassar, Sulawesi Selatan (WFO)",
+    "salaryRange": "Rp 3.500.000 - Rp 6.000.000",
+    "description": "Kami membuka lowongan kerja Translator Inggris-Indonesia yang ramah aksesibilitas pembaca layar (screen reader) di Kreatif Mandiri Jaya. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-05-09T01:49:20.451Z"
+  },
+  {
+    "id": "job-129",
+    "title": "Online Forum Moderator",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Denpasar, Bali (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 5.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Online Forum Moderator bersama PT Global Sentra Solusi. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-05-08T01:49:20.451Z"
+  },
+  {
+    "id": "job-130",
+    "title": "E-Commerce Admin",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Balikpapan, Kalimantan Timur (WFH)",
+    "salaryRange": "Rp 4.500.000 - Rp 6.000.000",
+    "description": "Mengelola operasional harian posisi E-Commerce Admin yang berlandaskan komunikasi teks digital di Teknologi Hijau Nusantara. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Netra",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-05-07T01:49:20.451Z"
+  },
+  {
+    "id": "job-131",
+    "title": "Data Entry Specialist",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Samarinda, Kalimantan Timur (WFO)",
+    "salaryRange": "Rp 5.000.000 - Rp 7.000.000",
+    "description": "Posisi Data Entry Specialist di Deco Digital Creative Studio dirancang ramah bagi penyandang disabilitas fisik/daksa. Lokasi kerja menyediakan infrastruktur ramah kursi roda, kruk, atau opsi kerja penuh jarak jauh (WFH) dari tempat tinggal Anda.",
+    "requirements": [
+      "Mengerti pengoperasian tools penulisan dokumen standar.",
+      "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
+      "Jujur, disiplin, dan bersemangat untuk terus berkembang."
+    ],
+    "disabilityTypes": [
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-05-06T01:49:20.451Z"
+  },
+  {
+    "id": "job-132",
+    "title": "Customer Service Chat Representative",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Pontianak, Kalimantan Barat (WFO)",
+    "salaryRange": "Rp 5.500.000 - Rp 8.000.000",
+    "description": "Kami membuka lowongan kerja Customer Service Chat Representative yang ramah aksesibilitas pembaca layar (screen reader) di Karya Mandiri Retail. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Aplikasi Pembaca Layar",
+      "Headphone Peredam Bising"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-05-05T01:49:20.451Z"
+  },
+  {
+    "id": "job-133",
+    "title": "Social Media Admin",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Banjarmasin, Kalimantan Selatan (WFH)",
+    "salaryRange": "Rp 6.000.000 - Rp 7.000.000",
+    "description": "Mengelola operasional harian posisi Social Media Admin yang berlandaskan komunikasi teks digital di PT Inklusi Indonesia Jaya. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Penerjemah Bahasa Isyarat",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-05-04T01:49:20.451Z"
+  },
+  {
+    "id": "job-134",
+    "title": "Content Writer & Editor",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Manado, Sulawesi Utara (WFO)",
+    "salaryRange": "Rp 3.000.000 - Rp 4.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Content Writer & Editor bersama Sentra Digital Utama. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-05-03T01:49:20.451Z"
+  },
+  {
+    "id": "job-135",
+    "title": "Administrative Assistant",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Jayapura, Papua (WFO)",
+    "salaryRange": "Rp 3.500.000 - Rp 5.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Administrative Assistant bersama Nusa Bakti Sejahtera. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-05-02T01:49:20.451Z"
+  },
+  {
+    "id": "job-136",
+    "title": "Junior Web Developer",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Kupang, Nusa Tenggara Timur (WFH)",
+    "salaryRange": "Rp 4.000.000 - Rp 6.500.000",
+    "description": "Mengelola operasional harian posisi Junior Web Developer yang berlandaskan komunikasi teks digital di Kreatif Mandiri Jaya. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Penerjemah Bahasa Isyarat",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-06-15T01:49:20.451Z"
+  },
+  {
+    "id": "job-137",
+    "title": "Graphic Designer Assistant",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Mataram, Nusa Tenggara Barat (WFO)",
+    "salaryRange": "Rp 4.500.000 - Rp 5.500.000",
+    "description": "Mengelola operasional harian posisi Graphic Designer Assistant yang berlandaskan komunikasi teks digital di PT Global Sentra Solusi. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu",
+      "Mental"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-06-14T01:49:20.451Z"
+  },
+  {
+    "id": "job-138",
+    "title": "Quality Assurance Tester",
+    "companyName": "Teknologi Hijau Nusantara",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Ambon, Maluku (WFO)",
+    "salaryRange": "Rp 5.000.000 - Rp 6.500.000",
+    "description": "Kami membuka lowongan kerja Quality Assurance Tester yang ramah aksesibilitas pembaca layar (screen reader) di Teknologi Hijau Nusantara. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra",
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar"
+    ],
+    "companyEmail": "karir@teknologihijau.co.id",
+    "createdAt": "2026-06-13T01:49:20.451Z"
+  },
+  {
+    "id": "job-139",
+    "title": "Virtual Office Assistant",
+    "companyName": "Deco Digital Creative Studio",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=150&q=80",
+    "location": "Pekanbaru, Riau (WFH)",
+    "salaryRange": "Rp 5.500.000 - Rp 7.500.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Virtual Office Assistant bersama Deco Digital Creative Studio. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita",
+      "Mental"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "hello@decodigital.io",
+    "createdAt": "2026-06-12T01:49:20.451Z"
+  },
+  {
+    "id": "job-140",
+    "title": "Digital Marketing Admin",
+    "companyName": "Karya Mandiri Retail",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=150&q=80",
+    "location": "Batam, Kepulauan Riau (WFO)",
+    "salaryRange": "Rp 6.000.000 - Rp 8.500.000",
+    "description": "Mengelola operasional harian posisi Digital Marketing Admin yang berlandaskan komunikasi teks digital di Karya Mandiri Retail. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Daksa",
+      "Netra",
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan",
+      "Aplikasi Pembaca Layar",
+      "Penerjemah Bahasa Isyarat"
+    ],
+    "companyEmail": "hrd@karyamandiri.co.id",
+    "createdAt": "2026-06-11T01:49:20.451Z"
+  },
+  {
+    "id": "job-141",
+    "title": "Translator Inggris-Indonesia",
+    "companyName": "PT Inklusi Indonesia Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=150&q=80",
+    "location": "Serang, Banten (WFO)",
+    "salaryRange": "Rp 3.000.000 - Rp 4.000.000",
+    "description": "Posisi Translator Inggris-Indonesia di PT Inklusi Indonesia Jaya dirancang ramah bagi penyandang disabilitas fisik/daksa. Lokasi kerja menyediakan infrastruktur ramah kursi roda, kruk, atau opsi kerja penuh jarak jauh (WFH) dari tempat tinggal Anda.",
+    "requirements": [
+      "Mengerti pengoperasian tools penulisan dokumen standar.",
+      "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
+      "Jujur, disiplin, dan bersemangat untuk terus berkembang."
+    ],
+    "disabilityTypes": [
+      "Daksa"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Ramp Kursi Roda & Lift",
+      "Meja Ergonomis Dapat Disesuaikan"
+    ],
+    "companyEmail": "karir@inklusiindonesia.com",
+    "createdAt": "2026-06-10T01:49:20.452Z"
+  },
+  {
+    "id": "job-142",
+    "title": "Online Forum Moderator",
+    "companyName": "Sentra Digital Utama",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=150&q=80",
+    "location": "Padang, Sumatera Barat (WFH)",
+    "salaryRange": "Rp 3.500.000 - Rp 5.000.000",
+    "description": "Kami membuka lowongan kerja Online Forum Moderator yang ramah aksesibilitas pembaca layar (screen reader) di Sentra Digital Utama. Pilihan tepat bagi rekan tunanetra yang menguasai jalan pintas keyboard komputer secara mandiri.",
+    "requirements": [
+      "Sanggup mengoperasikan pembaca layar seperti NVDA atau JAWS.",
+      "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
+      "Memiliki PC/Laptop penunjang yang andal di rumah."
+    ],
+    "disabilityTypes": [
+      "Netra"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Aplikasi Pembaca Layar",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "karir@sentradigital.co.id",
+    "createdAt": "2026-06-09T01:49:20.452Z"
+  },
+  {
+    "id": "job-143",
+    "title": "E-Commerce Admin",
+    "companyName": "Nusa Bakti Sejahtera",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?auto=format&fit=crop&w=150&q=80",
+    "location": "Banda Aceh, Aceh (WFO)",
+    "salaryRange": "Rp 4.000.000 - Rp 6.000.000",
+    "description": "Mengelola operasional harian posisi E-Commerce Admin yang berlandaskan komunikasi teks digital di Nusa Bakti Sejahtera. Lowongan ini ramah bagi penyandang disabilitas rungu/tuli karena seluruh interaksi tim dilakukan tertulis tanpa panggilan suara.",
+    "requirements": [
+      "Memiliki kemampuan komunikasi tertulis yang baik dan sopan.",
+      "Mahir mengoperasikan platform pesan internal dan browser internet.",
+      "Fokus tinggi dan teliti saat menyelesaikan tugas."
+    ],
+    "disabilityTypes": [
+      "Rungu"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Penerjemah Bahasa Isyarat",
+      "Ramp Kursi Roda & Lift"
+    ],
+    "companyEmail": "sdm@nusabakti.or.id",
+    "createdAt": "2026-06-08T01:49:20.452Z"
+  },
+  {
+    "id": "job-144",
+    "title": "Data Entry Specialist",
+    "companyName": "Kreatif Mandiri Jaya",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=150&q=80",
+    "location": "Jambi, Jambi (WFO)",
+    "salaryRange": "Rp 4.500.000 - Rp 7.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Data Entry Specialist bersama Kreatif Mandiri Jaya. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Grahita"
+    ],
+    "accommodations": [
+      "Jam Kerja Fleksibel",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@kreatifmandiri.id",
+    "createdAt": "2026-06-07T01:49:20.452Z"
+  },
+  {
+    "id": "job-145",
+    "title": "Customer Service Chat Representative",
+    "companyName": "PT Global Sentra Solusi",
+    "companyLogoUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=150&q=80",
+    "location": "Bengkulu, Bengkulu (WFH)",
+    "salaryRange": "Rp 5.000.000 - Rp 6.000.000",
+    "description": "Sambut kesempatan karir yang setara sebagai Customer Service Chat Representative bersama PT Global Sentra Solusi. Lingkungan kerja yang aman, minim tekanan, serta inklusif mendukung rekan disabilitas grahita ringan atau mental stabil untuk fokus berkarya.",
+    "requirements": [
+      "Mampu mengikuti instruksi panduan visual/tertulis secara runtut.",
+      "Menyukai tipe pekerjaan yang teratur dan sistematis.",
+      "Disiplin dalam menjaga kerahasiaan berkas operasional."
+    ],
+    "disabilityTypes": [
+      "Mental"
+    ],
+    "accommodations": [
+      "Pekerjaan Rumah Penuh (WFH)",
+      "Lingkungan Kerja Tenang & Redup",
+      "Pendampingan Mentor Khusus"
+    ],
+    "companyEmail": "recruitment@globalsentra.id",
+    "createdAt": "2026-06-06T01:49:20.452Z"
+  }
+]

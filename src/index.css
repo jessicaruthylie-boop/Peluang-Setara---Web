@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Glassmorphism card styles */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  border: 1px solid rgba(226, 232, 240, 0.7);
+}
+
+.dark .glass-panel {
+  background: rgba(15, 23, 42, 0.6);
+  backdrop-filter: blur(16px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Animated subtle mesh gradient background */
+.animated-mesh-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #f8fafc;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(220, 76, 56, 0.04) 0px, transparent 50%),
+    radial-gradient(at 50% 0%, rgba(99, 102, 241, 0.04) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(16, 185, 129, 0.03) 0px, transparent 50%);
+  z-index: -10;
+}
+
+/* Custom Accessibility Styles corresponding to UserWay options */
+
+/* High Contrast mode */
+.accessibility-contrast-high {
+  background-color: #0c0f1d !important;
+  color: #f1f5f9 !important;
+}
+
+.accessibility-contrast-high main,
+.accessibility-contrast-high header,
+.accessibility-contrast-high div,
+.accessibility-contrast-high section,
+.accessibility-contrast-high nav,
+.accessibility-contrast-high footer,
+.accessibility-contrast-high ul,
+.accessibility-contrast-high li {
+  background-color: #0c0f1d !important;
+  color: #f8fafc !important;
+  border-color: #475569 !important;
+}
+
+.accessibility-contrast-high h1,
+.accessibility-contrast-high h2,
+.accessibility-contrast-high h3,
+.accessibility-contrast-high h4,
+.accessibility-contrast-high h5,
+.accessibility-contrast-high h6 {
+  color: #facc15 !important; /* Bright Yellow headings for strong readability */
+}
+
+.accessibility-contrast-high p,
+.accessibility-contrast-high span,
+.accessibility-contrast-high label {
+  color: #e2e8f0 !important;
+}
+
+.accessibility-contrast-high button,
+.accessibility-contrast-high a,
+.accessibility-contrast-high input,
+.accessibility-contrast-high textarea,
+.accessibility-contrast-high select {
+  background-color: #1e293b !important;
+  color: #38bdf8 !important; /* Cyber blue hyperlinks */
+  border: 2px solid #576574 !important;
+}
+
+.accessibility-contrast-high button:hover,
+.accessibility-contrast-high a:hover {
+  background-color: #38bdf8 !important;
+  color: #0c0f1d !important;
+}
+
+/* Highlight Links & Buttons */
+.accessibility-highlight-links a,
+.accessibility-highlight-links button,
+.accessibility-highlight-links [role="button"] {
+  outline: 4px solid #ef4444 !important;
+  outline-offset: 4px !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 3px !important;
+  text-decoration-color: #ef4444 !important;
+}
+
+/* Bigger Font Sizes */
+.accessibility-font-large,
+.accessibility-font-large p,
+.accessibility-font-large span,
+.accessibility-font-large h4,
+.accessibility-font-large h3,
+.accessibility-font-large h2,
+.accessibility-font-large li,
+.accessibility-font-large button,
+.accessibility-font-large label,
+.accessibility-font-large input,
+.accessibility-font-large textarea {
+  font-size: 1.15rem !important;
+}
+
+.accessibility-font-large h1 {
+  font-size: 2.5rem !important;
+}
+
+.accessibility-font-extra-large,
+.accessibility-font-extra-large p,
+.accessibility-font-extra-large span,
+.accessibility-font-extra-large h4,
+.accessibility-font-extra-large h3,
+.accessibility-font-extra-large h2,
+.accessibility-font-extra-large li,
+.accessibility-font-extra-large button,
+.accessibility-font-extra-large label,
+.accessibility-font-extra-large input,
+.accessibility-font-extra-large textarea {
+  font-size: 1.3rem !important;
+}
+
+.accessibility-font-extra-large h1 {
+  font-size: 3rem !important;
+}
+
+/* Text & Letter Spacing */
+.accessibility-spacing-wide,
+.accessibility-spacing-wide * {
+  letter-spacing: 0.12em !important;
+}
+
+.accessibility-spacing-extra-wide,
+.accessibility-spacing-extra-wide * {
+  letter-spacing: 0.22em !important;
+}
+
+/* Dyslexia Friendly font layout (Using comic/rounded shapes for easier decoding) */
+.accessibility-dyslexia,
+.accessibility-dyslexia * {
+  font-family: "Comic Sans MS", "Chalkboard SE", "Comic Neue", cursive, sans-serif !important;
+  letter-spacing: 0.05em !important;
+}
+
+/* Big Cursor */
+.accessibility-big-cursor,
+.accessibility-big-cursor * {
+  cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Cpath d='M0 0 L32 32 L16 36 L24 56 L12 60 L4 40 L0 44 Z' fill='black' stroke='white' stroke-width='3'/%3E%3C/svg%3E"), auto !important;
+}
+
+/* Tall Line Height */
+.accessibility-line-tall,
+.accessibility-line-tall * {
+  line-height: 1.9 !important;
+}
+
+.accessibility-line-extra-tall,
+.accessibility-line-extra-tall * {
+  line-height: 2.4 !important;
+}
+
+/* Pause Animations (Zero transitions & transforms) */
+.accessibility-pause-animations,
+.accessibility-pause-animations * {
+  animation: none !important;
+  transition: none !important;
+  transform: none !important;
+}

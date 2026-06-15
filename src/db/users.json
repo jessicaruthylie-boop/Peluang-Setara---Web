@@ -1,0 +1,16 @@
+[
+  {
+    "id": "user-1",
+    "name": "Jessica Ruth lie",
+    "email": "jessicaruthylie@gmail.com",
+    "password": "password123",
+    "role": "applicant"
+  },
+  {
+    "id": "user-2",
+    "name": "HR PT Global Sentra Solusi",
+    "email": "recruitment@globalsentra.id",
+    "password": "password123",
+    "role": "recruiter"
+  }
+]

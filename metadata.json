@@ -1,0 +1,6 @@
+{
+  "name": "Peluang Setara",
+  "description": "Platform pencarian lowongan kerja inklusif bagi penyandang disabilitas dengan pusat kustomisasi bantuan aksesibilitas visual terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
