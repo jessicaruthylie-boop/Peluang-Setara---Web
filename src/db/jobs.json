@@ -13,10 +13,7 @@
       "Mampu menggunakan perangkat komputer dengan baik.",
       "Memiliki rasa empati yang tinggi dan sabar menghadapi pertanyaan pelanggan."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Daksa"as
-    ],
+    "disabilityTypes": ["Rungu", "Daksa"],
     "accommodations": [
       "Aplikasi Chat Komunikasi Internal",
       "Jam Kerja Fleksibel",
@@ -40,10 +37,7 @@
       "Teliti dan menyukai pekerjaan yang bersifat repetitif dan terstruktur.",
       "Memiliki laptop dan koneksi internet yang stabil."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Grahita"
-    ],
+    "disabilityTypes": ["Netra", "Grahita"],
     "accommodations": [
       "Aplikasi Pembaca Layar",
       "Pendampingan Mentor Khusus",
@@ -66,10 +60,7 @@
       "Terbiasa menggunakan kolaborasi git (GitHub/GitLab).",
       "Senang belajar hal baru tentang teknologi inklusif."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Ramp Kursi Roda & Lift",
       "Sistem Evaluasi Tertulis",
@@ -92,10 +83,7 @@
       "Mendukung fokus tinggi dan kenyamanan kerja dengan headphone peredam bising.",
       "Kerapian administrasi yang baik."
     ],
-    "disabilityTypes": [
-      "Mental",
-      "Grahita"
-    ],
+    "disabilityTypes": ["Mental", "Grahita"],
     "accommodations": [
       "Lingkungan Kerja Tenang & Redup",
       "Headphone Peredam Bising",
@@ -118,10 +106,7 @@
       "Responsif terhadap masukan dan revisi desain.",
       "Dapat berkolaborasi dengan tatanan komunikasi visual modern."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Sistem Komunikasi Teks Penuh",
       "Lisensi Software Profesional Dibayari",
@@ -143,11 +128,7 @@
       "Paham dasar SEO (Search Engine Optimization) menulis artikel menjadi poin plus.",
       "Mampu menghasilkan 2-3 artikel per hari dengan standar tata bahasa yang baik."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu", "Mental"],
     "accommodations": [
       "Pengaturan Jadwal Fleksibel",
       "Software Pendeteksi Ejaan Otomatis",
@@ -169,10 +150,7 @@
       "Menguasai teknik dasar pencarian data di komputer.",
       "Pendidikan minimal SMA/SMK sederajat."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Rungu", "Daksa"],
     "accommodations": [
       "Ramp Lintasan Kursi Roda",
       "Formulir Pelaporan Sederhana",
@@ -194,11 +172,7 @@
       "Memahami tren fitur sosial media terkini.",
       "Ramah dan sabar melayani calon pembeli online."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Daksa",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Daksa", "Mental"],
     "accommodations": [
       "Sistem Kerja WFH",
       "Aplikasi Template Balasan Instan",
@@ -220,10 +194,7 @@
       "Biasa melakukan pencatatan bug log secara runtut.",
       "Pendidikan D3/S1 Teknik Informatika/Sistem Informasi."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Instalasi Software Pembaca Layar Berlisensi",
       "Suasana Meja Kerja Pojok Mandiri",
@@ -245,11 +216,7 @@
       "Mampu teliti bermain data angka dan persentase di lembar kerja.",
       "Dapat mengorganisasi file digital dengan baik."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu",
-      "Grahita"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu", "Grahita"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Panduan Pengoperasian Video Ber-Subtitle",
@@ -271,11 +238,7 @@
       "Mengerti tata bahasa baku Indonesia secara mumpuni.",
       "Komunikatif melalui media koordinasi tertulis."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Daksa",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Daksa", "Mental"],
     "accommodations": [
       "Headphone Peredam Bising",
       "Program Koreksi Ejaan Pendamping",
@@ -297,11 +260,7 @@
       "Memiliki akses PC/Laptop mandiri berspesifikasi standar.",
       "Jujur dan bertanggung jawab terhadap keabsahan laporan."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Netra",
-      "Grahita"
-    ],
+    "disabilityTypes": ["Daksa", "Netra", "Grahita"],
     "accommodations": [
       "Pembaca Layar Audio & Teks Pendamping",
       "Mentoring Intensif Minggu Pertama",
@@ -323,11 +282,7 @@
       "Sabar, teliti, serta sanggup menjaga kerahasiaan berkas data.",
       "Mampu bertukar gagasan melalui email kantor dengan taktis."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Netra", "Rungu", "Mental"],
     "accommodations": [
       "Format Berkas Dokumen Kontras Tinggi",
       "Asisten Pendamping Individu",
@@ -349,11 +304,7 @@
       "Mampu menggunakan aplikasi pesan seperti Discord, Telegram, Whatsapp.",
       "Mempunyai tata krama penulisan yang santun dan menjunjung keberagaman."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Daksa",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Daksa", "Mental"],
     "accommodations": [
       "100% Remote Hub",
       "Akses Saluran Bantuan Mental internal",
@@ -375,11 +326,7 @@
       "Kerapian administrasi keuangan yang sangat teruji.",
       "Mampu mengoperasikan kalkulator digital dengan andal."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu",
-      "Grahita"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu", "Grahita"],
     "accommodations": [
       "Kursi Kerja Ortopedi Pendukung",
       "Sistem Evaluasi Tugas Berbasis Checklist",
@@ -401,11 +348,7 @@
       "Komunikasi verbal atau non-verbal yang runtut.",
       "Memiliki inisiatif tinggi dalam menata kerapian logistik."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu", "Mental"],
     "accommodations": [
       "Workspace Fleksibel",
       "Sistem Instruksi Tertulis Terpusat",
@@ -427,10 +370,7 @@
       "Tergolong pengguna aktif screen reader (NVDA, VoiceOver, dsb) atau kontrol keyboard.",
       "Suka memberikan analisis mendalam berupa laporan revisi teks."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Full WFH",
       "Fleksibilitas Jam Evaluasi",
@@ -452,11 +392,7 @@
       "Keahlian merangkai kalimat dengan sintaksis bahasa Indonesia yang luwes.",
       "Mengerti pemakaian kamus padanan kata daring dengan cepat."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu", "Mental"],
     "accommodations": [
       "Remote Work Tanpa Mobilitas",
       "Tenggat Waktu Penerjemahan Mandiri Kelompok",
@@ -478,11 +414,7 @@
       "Menyukai ketuntasan pekerjaan yang runtut berulang.",
       "Mempunyai laptop berfasilitas internet rumah memadai."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Grahita",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Grahita", "Daksa"],
     "accommodations": [
       "Screen Reader Friendly Dashboard",
       "Mentor Berbasis Pendampingan Asynchronous",
@@ -504,11 +436,7 @@
       "Keterampilan mengoperasikan keyboard angka secara lincah.",
       "Berusia minimal 18 tahun dan bertempat tinggal di Lombok."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Grahita", "Mental"],
     "accommodations": [
       "Pelindung Telinga Nyaman",
       "Penerangan Gudang Ekstra Terang",
@@ -530,11 +458,7 @@
       "Pernah belajar mengoperasikan komputer dasar.",
       "Mampu bekerja dengan arahan terstruktur harian."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Mental",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Grahita", "Mental", "Daksa"],
     "accommodations": [
       "Pojok Meja Kerja Eksklusif Tenang",
       "Panduan Gambar Penempatan Barang",
@@ -556,11 +480,7 @@
       "Sanggup mengoperasikan browser Chrome/Firefox dengan lancar.",
       "Mempunyai koneksi internet yang stabil."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Daksa",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Daksa", "Mental"],
     "accommodations": [
       "Sistem Kerja WFH",
       "Komunikasi Berbentuk Tinjauan Teks",
@@ -582,11 +502,7 @@
       "Memiliki pemahaman ramah tentang etika disabilitas.",
       "Mampu menyusun pesan informasi dwi-mingguan terpadu."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu", "Mental"],
     "accommodations": [
       "Kursi Roda Adaptif Kantor",
       "Interpreter Bahasa Isyarat Sesi Offline",
@@ -608,11 +524,7 @@
       "Tekun dalam berhadapan dengan tumpukan dokumen data bervariasi setiap hari.",
       "Mematuhui kode etik kerahasiaan kepemilikan lahan."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa",
-      "Grahita"
-    ],
+    "disabilityTypes": ["Netra", "Daksa", "Grahita"],
     "accommodations": [
       "Staf Pendamping Kategori Khusus",
       "Opsi Jam Istirahat Sesuai Keinginan",
@@ -634,10 +546,7 @@
       "Mampu menggunakan aplikasi Google Suite secara baik.",
       "Memiliki kemauan kuat belajar tata kelola data perkantoran."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Rungu", "Daksa"],
     "accommodations": [
       "Jalur Masuk Lif & Ramp Khusus",
       "Papan Pengumuman Ber-Font Visual Besar",
@@ -659,11 +568,7 @@
       "Karakter penulisan sopan, teliti, dan mengutamakan ketepatan waktu.",
       "Bertempat tinggal di Sulut merupakan keunggulan."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Rungu",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Rungu", "Daksa"],
     "accommodations": [
       "Sistem Kerja WFH Mandiri",
       "Sistem Pembaca Email Otomatis",
@@ -685,10 +590,7 @@
       "Mampu menggunakan perangkat laptop Windows.",
       "Memiliki kedisiplinan kerja yang tinggi."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Rungu", "Daksa"],
     "accommodations": [
       "Layar Kerja Kontrast Tinggi",
       "Mentor Pendamping Isyarat Kepala",
@@ -710,11 +612,7 @@
       "Kreatif mengemas materi formal menjadi kuis yang menyenangkan.",
       "Nyaman berkoordinasi secara asynchronous lewat web manajemen tugas."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Daksa",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Daksa", "Mental"],
     "accommodations": [
       "Pilihan Jam Mulai Kerja Sukarela",
       "Subsidi Kuota Internet",
@@ -736,11 +634,7 @@
       "Memiliki ketahanan bekerja dalam memilah ratusan entitas data per hari.",
       "Mampu mematuhi kebijakan privasi data rumah tangga daerah."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Grahita", "Daksa", "Rungu"],
     "accommodations": [
       "Meja Kerja Rendah Ramah Kursi Roda",
       "Formulir SOP Gambar Rias Sederhana",
@@ -762,10 +656,7 @@
       "Kemampuan mengetik instruksi penyelesaian masalah secara jelas dan teratur.",
       "Pendidikan minimal SMK Jurusan Jaringan (TKJ) atau setara."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Rungu", "Daksa"],
     "accommodations": [
       "Aplikasi Sistem Chat Otomatis",
       "Kantor Cabang Inklusif dengan Ramp Lift",
@@ -787,11 +678,7 @@
       "Kecermatan tinggi dalam pengetikan nama lengkap dan NIK KTP.",
       "Konsisten mengirim laporan rekapan setiap hari Jumat sore."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa",
-      "Grahita"
-    ],
+    "disabilityTypes": ["Netra", "Daksa", "Grahita"],
     "accommodations": [
       "Format File Ramah Tunanetra",
       "Opsi Waktu Kerja Sangat Fleksibel",
@@ -813,11 +700,7 @@
       "Memiliki gaya tulisan yang luwes, santun, dan komunikatif.",
       "Aktif berselancar di kanal media sosial populer."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Daksa",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Daksa", "Mental"],
     "accommodations": [
       "Kantor Ramah Kursi Roda di Pusat Ambon",
       "Asisten Pendamping Saat Mengolah Data Tur",
@@ -839,11 +722,7 @@
       "Menyukai ketelitian angka nominal harga barang.",
       "Menggunakan HP Android atau laptop fungsional pribadi."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Daksa", "Grahita", "Mental"],
     "accommodations": [
       "Remoting Penuh",
       "Modul Panduan Bergambar Detail Ringkas",
@@ -865,11 +744,7 @@
       "Memiliki pemahaman tata layang (margin, daftar isi) yang baik.",
       "Bertanggung jawab atas kerapihan penyusunan berkas akhir."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Daksa",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Daksa", "Mental"],
     "accommodations": [
       "Kantor Inovatif dengan Lift & Ramp",
       "Headphone Peredam Kebisingan",
@@ -891,11 +766,7 @@
       "Kepatuhan tinggi pada kerapihan pengisian tabel data.",
       "Bersedia mengikuti pelatihan pengenalan inklusivitas di Jayapura."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Netra", "Daksa", "Rungu"],
     "accommodations": [
       "Format Perekapan Modular",
       "Pendampingan Komunitas Isyarat Papua",
@@ -917,10 +788,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -943,10 +811,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Mental"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Penerjemah Bahasa Isyarat",
@@ -969,10 +834,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -995,10 +857,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Grahita", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -1020,11 +879,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Netra",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Netra", "Rungu"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Aplikasi Pembaca Layar",
@@ -1046,9 +901,7 @@
       "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
       "Jujur, disiplin, dan bersemangat untuk terus berkembang."
     ],
-    "disabilityTypes": [
-      "Daksa"
-    ],
+    "disabilityTypes": ["Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -1070,9 +923,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra"
-    ],
+    "disabilityTypes": ["Netra"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Aplikasi Pembaca Layar",
@@ -1094,9 +945,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu"
-    ],
+    "disabilityTypes": ["Rungu"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Penerjemah Bahasa Isyarat",
@@ -1118,9 +967,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita"
-    ],
+    "disabilityTypes": ["Grahita"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -1142,9 +989,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Mental"
-    ],
+    "disabilityTypes": ["Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -1166,10 +1011,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Penerjemah Bahasa Isyarat",
@@ -1191,10 +1033,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -1217,10 +1056,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -1243,10 +1079,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Grahita", "Mental"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Lingkungan Kerja Tenang & Redup",
@@ -1268,11 +1101,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Netra",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Netra", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -1296,9 +1125,7 @@
       "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
       "Jujur, disiplin, dan bersemangat untuk terus berkembang."
     ],
-    "disabilityTypes": [
-      "Daksa"
-    ],
+    "disabilityTypes": ["Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -1320,9 +1147,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra"
-    ],
+    "disabilityTypes": ["Netra"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Aplikasi Pembaca Layar",
@@ -1344,9 +1169,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu"
-    ],
+    "disabilityTypes": ["Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -1368,9 +1191,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita"
-    ],
+    "disabilityTypes": ["Grahita"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -1392,9 +1213,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Mental"
-    ],
+    "disabilityTypes": ["Mental"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Lingkungan Kerja Tenang & Redup",
@@ -1416,10 +1235,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -1442,10 +1258,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -1468,10 +1281,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Aplikasi Pembaca Layar",
@@ -1493,10 +1303,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Grahita", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -1518,11 +1325,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Netra",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Netra", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -1546,9 +1349,7 @@
       "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
       "Jujur, disiplin, dan bersemangat untuk terus berkembang."
     ],
-    "disabilityTypes": [
-      "Daksa"
-    ],
+    "disabilityTypes": ["Daksa"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Headphone Peredam Bising",
@@ -1570,9 +1371,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra"
-    ],
+    "disabilityTypes": ["Netra"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Aplikasi Pembaca Layar",
@@ -1594,9 +1393,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu"
-    ],
+    "disabilityTypes": ["Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -1618,9 +1415,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita"
-    ],
+    "disabilityTypes": ["Grahita"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Lingkungan Kerja Tenang & Redup",
@@ -1642,9 +1437,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Mental"
-    ],
+    "disabilityTypes": ["Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -1666,10 +1459,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -1692,10 +1482,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Mental"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Penerjemah Bahasa Isyarat",
@@ -1718,10 +1505,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -1744,10 +1528,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Grahita", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -1769,11 +1550,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Netra",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Netra", "Rungu"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Aplikasi Pembaca Layar",
@@ -1795,9 +1572,7 @@
       "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
       "Jujur, disiplin, dan bersemangat untuk terus berkembang."
     ],
-    "disabilityTypes": [
-      "Daksa"
-    ],
+    "disabilityTypes": ["Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -1819,9 +1594,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra"
-    ],
+    "disabilityTypes": ["Netra"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Aplikasi Pembaca Layar",
@@ -1843,9 +1616,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu"
-    ],
+    "disabilityTypes": ["Rungu"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Penerjemah Bahasa Isyarat",
@@ -1867,9 +1638,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita"
-    ],
+    "disabilityTypes": ["Grahita"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -1891,9 +1660,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Mental"
-    ],
+    "disabilityTypes": ["Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -1915,10 +1682,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Penerjemah Bahasa Isyarat",
@@ -1940,10 +1704,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -1966,10 +1727,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -1992,10 +1750,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Grahita", "Mental"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Lingkungan Kerja Tenang & Redup",
@@ -2017,11 +1772,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Netra",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Netra", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -2045,9 +1796,7 @@
       "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
       "Jujur, disiplin, dan bersemangat untuk terus berkembang."
     ],
-    "disabilityTypes": [
-      "Daksa"
-    ],
+    "disabilityTypes": ["Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -2069,9 +1818,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra"
-    ],
+    "disabilityTypes": ["Netra"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Aplikasi Pembaca Layar",
@@ -2093,9 +1840,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu"
-    ],
+    "disabilityTypes": ["Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -2117,9 +1862,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita"
-    ],
+    "disabilityTypes": ["Grahita"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -2141,9 +1884,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Mental"
-    ],
+    "disabilityTypes": ["Mental"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Lingkungan Kerja Tenang & Redup",
@@ -2165,10 +1906,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -2191,10 +1929,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -2217,10 +1952,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Aplikasi Pembaca Layar",
@@ -2242,10 +1974,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Grahita", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -2267,11 +1996,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Netra",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Netra", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -2295,9 +2020,7 @@
       "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
       "Jujur, disiplin, dan bersemangat untuk terus berkembang."
     ],
-    "disabilityTypes": [
-      "Daksa"
-    ],
+    "disabilityTypes": ["Daksa"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Aplikasi Pembaca Layar",
@@ -2319,9 +2042,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra"
-    ],
+    "disabilityTypes": ["Netra"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Aplikasi Pembaca Layar",
@@ -2343,9 +2064,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu"
-    ],
+    "disabilityTypes": ["Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -2367,9 +2086,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita"
-    ],
+    "disabilityTypes": ["Grahita"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Lingkungan Kerja Tenang & Redup",
@@ -2391,9 +2108,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Mental"
-    ],
+    "disabilityTypes": ["Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -2415,10 +2130,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -2441,10 +2153,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Mental"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Penerjemah Bahasa Isyarat",
@@ -2467,10 +2176,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -2493,10 +2199,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Grahita", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -2518,11 +2221,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Netra",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Netra", "Rungu"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Aplikasi Pembaca Layar",
@@ -2544,9 +2243,7 @@
       "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
       "Jujur, disiplin, dan bersemangat untuk terus berkembang."
     ],
-    "disabilityTypes": [
-      "Daksa"
-    ],
+    "disabilityTypes": ["Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -2568,9 +2265,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra"
-    ],
+    "disabilityTypes": ["Netra"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Aplikasi Pembaca Layar",
@@ -2592,9 +2287,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu"
-    ],
+    "disabilityTypes": ["Rungu"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Penerjemah Bahasa Isyarat",
@@ -2616,9 +2309,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita"
-    ],
+    "disabilityTypes": ["Grahita"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -2640,9 +2331,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Mental"
-    ],
+    "disabilityTypes": ["Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -2664,10 +2353,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Penerjemah Bahasa Isyarat",
@@ -2689,10 +2375,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -2715,10 +2398,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -2741,10 +2421,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Grahita", "Mental"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Lingkungan Kerja Tenang & Redup",
@@ -2766,11 +2443,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Netra",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Netra", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -2794,9 +2467,7 @@
       "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
       "Jujur, disiplin, dan bersemangat untuk terus berkembang."
     ],
-    "disabilityTypes": [
-      "Daksa"
-    ],
+    "disabilityTypes": ["Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -2818,9 +2489,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra"
-    ],
+    "disabilityTypes": ["Netra"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Aplikasi Pembaca Layar",
@@ -2842,9 +2511,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu"
-    ],
+    "disabilityTypes": ["Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -2866,9 +2533,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita"
-    ],
+    "disabilityTypes": ["Grahita"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -2890,9 +2555,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Mental"
-    ],
+    "disabilityTypes": ["Mental"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Lingkungan Kerja Tenang & Redup",
@@ -2914,10 +2577,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -2940,10 +2600,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -2966,10 +2623,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Aplikasi Pembaca Layar",
@@ -2991,10 +2645,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Grahita", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -3016,11 +2667,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Netra",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Netra", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -3044,9 +2691,7 @@
       "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
       "Jujur, disiplin, dan bersemangat untuk terus berkembang."
     ],
-    "disabilityTypes": [
-      "Daksa"
-    ],
+    "disabilityTypes": ["Daksa"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Jam Kerja Fleksibel",
@@ -3068,9 +2713,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra"
-    ],
+    "disabilityTypes": ["Netra"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Aplikasi Pembaca Layar",
@@ -3092,9 +2735,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu"
-    ],
+    "disabilityTypes": ["Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -3116,9 +2757,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita"
-    ],
+    "disabilityTypes": ["Grahita"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Lingkungan Kerja Tenang & Redup",
@@ -3140,9 +2779,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Mental"
-    ],
+    "disabilityTypes": ["Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -3164,10 +2801,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -3190,10 +2824,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Mental"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Penerjemah Bahasa Isyarat",
@@ -3216,10 +2847,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -3242,10 +2870,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Grahita", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -3267,11 +2892,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Netra",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Netra", "Rungu"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Aplikasi Pembaca Layar",
@@ -3293,9 +2914,7 @@
       "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
       "Jujur, disiplin, dan bersemangat untuk terus berkembang."
     ],
-    "disabilityTypes": [
-      "Daksa"
-    ],
+    "disabilityTypes": ["Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -3317,9 +2936,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra"
-    ],
+    "disabilityTypes": ["Netra"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Aplikasi Pembaca Layar",
@@ -3341,9 +2958,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu"
-    ],
+    "disabilityTypes": ["Rungu"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Penerjemah Bahasa Isyarat",
@@ -3365,9 +2980,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita"
-    ],
+    "disabilityTypes": ["Grahita"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -3389,9 +3002,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Mental"
-    ],
+    "disabilityTypes": ["Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -3413,10 +3024,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Rungu"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Penerjemah Bahasa Isyarat",
@@ -3438,10 +3046,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu",
-      "Mental"
-    ],
+    "disabilityTypes": ["Rungu", "Mental"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -3464,10 +3069,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra",
-      "Daksa"
-    ],
+    "disabilityTypes": ["Netra", "Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -3490,10 +3092,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita",
-      "Mental"
-    ],
+    "disabilityTypes": ["Grahita", "Mental"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Lingkungan Kerja Tenang & Redup",
@@ -3515,11 +3114,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Daksa",
-      "Netra",
-      "Rungu"
-    ],
+    "disabilityTypes": ["Daksa", "Netra", "Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -3543,9 +3138,7 @@
       "Mampu berkomunikasi dan berkoordinasi secara tangkas dengan tim regional.",
       "Jujur, disiplin, dan bersemangat untuk terus berkembang."
     ],
-    "disabilityTypes": [
-      "Daksa"
-    ],
+    "disabilityTypes": ["Daksa"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Ramp Kursi Roda & Lift",
@@ -3567,9 +3160,7 @@
       "Ramah, terstruktur, dan tekun dalam mengolah materi data digital.",
       "Memiliki PC/Laptop penunjang yang andal di rumah."
     ],
-    "disabilityTypes": [
-      "Netra"
-    ],
+    "disabilityTypes": ["Netra"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Aplikasi Pembaca Layar",
@@ -3591,9 +3182,7 @@
       "Mahir mengoperasikan platform pesan internal dan browser internet.",
       "Fokus tinggi dan teliti saat menyelesaikan tugas."
     ],
-    "disabilityTypes": [
-      "Rungu"
-    ],
+    "disabilityTypes": ["Rungu"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Penerjemah Bahasa Isyarat",
@@ -3615,9 +3204,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Grahita"
-    ],
+    "disabilityTypes": ["Grahita"],
     "accommodations": [
       "Jam Kerja Fleksibel",
       "Lingkungan Kerja Tenang & Redup",
@@ -3639,9 +3226,7 @@
       "Menyukai tipe pekerjaan yang teratur dan sistematis.",
       "Disiplin dalam menjaga kerahasiaan berkas operasional."
     ],
-    "disabilityTypes": [
-      "Mental"
-    ],
+    "disabilityTypes": ["Mental"],
     "accommodations": [
       "Pekerjaan Rumah Penuh (WFH)",
       "Lingkungan Kerja Tenang & Redup",
